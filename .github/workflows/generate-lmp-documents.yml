@@ -1,0 +1,38 @@
+name: Generate LMP Documents
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "lmp/**/*.md"
+      - ".github/workflows/generate-lmp-documents.yml"
+  pull_request:
+    paths:
+      - "lmp/**/*.md"
+      - ".github/workflows/generate-lmp-documents.yml"
+  workflow_dispatch:
+
+jobs:
+  build-documents:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and TeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-recommended
+
+      - name: Generate PDF and DOCX
+        run: |
+          mkdir -p output
+          pandoc lmp/aiwa-labor-management-procedures.md -o output/aiwa-labor-management-procedures.pdf
+          pandoc lmp/aiwa-labor-management-procedures.md -o output/aiwa-labor-management-procedures.docx
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: aiwa-lmp-documents
+          path: output/
