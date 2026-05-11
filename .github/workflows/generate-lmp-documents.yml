@@ -5,10 +5,12 @@ on:
     branches: [main]
     paths:
       - "lmp/**/*.md"
+      - "templates/reference.docx"
       - ".github/workflows/generate-lmp-documents.yml"
   pull_request:
     paths:
       - "lmp/**/*.md"
+      - "templates/reference.docx"
       - ".github/workflows/generate-lmp-documents.yml"
   workflow_dispatch:
 
