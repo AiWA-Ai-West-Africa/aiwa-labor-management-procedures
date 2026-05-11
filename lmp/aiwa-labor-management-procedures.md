@@ -43,7 +43,7 @@ This LMP is guided by applicable labor requirements in The Gambia, including:
 - occupational health and safety obligations;
 - anti-discrimination protections;
 - employment contract requirements; and
-- workers compensation obligations.
+- workers' compensation obligations.
 
 Where activities are donor-funded, relevant labor requirements under the World Bank Environmental and Social Standard 2 (ESS2) may also apply.
 
