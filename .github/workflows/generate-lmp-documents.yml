@@ -30,8 +30,12 @@ jobs:
       - name: Generate PDF and DOCX
         run: |
           mkdir -p output
-          pandoc lmp/aiwa-labor-management-procedures.md -o output/aiwa-labor-management-procedures.pdf
-          pandoc lmp/aiwa-labor-management-procedures.md -o output/aiwa-labor-management-procedures.docx
+          TEMPLATE_FLAG=""
+          if [ -f templates/reference.docx ]; then
+            TEMPLATE_FLAG="--reference-doc=templates/reference.docx"
+          fi
+          pandoc lmp/aiwa-labor-management-procedures.md --toc --number-sections -o output/aiwa-labor-management-procedures.pdf
+          pandoc lmp/aiwa-labor-management-procedures.md --toc --number-sections ${TEMPLATE_FLAG} -o output/aiwa-labor-management-procedures.docx
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4

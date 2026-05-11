@@ -1,3 +1,13 @@
+---
+title: "AIWA Labor Management Procedures"
+author: "AI West Africa"
+date: "2026"
+version: "0.1 Draft"
+last_updated: "2026-05-11"
+toc: true
+numbersections: true
+---
+
 # AI West Africa (AIWA) Labor Management Procedures (LMP)
 
 ## 1. Introduction
@@ -95,6 +105,9 @@ Written terms should define duties, compensation, duration, leave, confidentiali
 ### Working Hours and Leave
 Working time, annual leave, sick leave, maternity/paternity leave, and public holidays are managed in line with applicable legal and organizational requirements.
 
+### Disciplinary Procedures
+AIWA applies fair and documented disciplinary procedures with notice of concerns, opportunity to respond, and proportionate action aligned with contract terms and applicable law.
+
 ### Internships and Volunteer Engagement
 Intern and volunteer roles are defined with clear supervision, expected conduct, and role limitations.
 
@@ -130,7 +143,7 @@ AIWA provides an employee-focused grievance process with:
 - confidential complaints channels;
 - anti-retaliation protections;
 - reporting channels for HR and ethics/misconduct issues;
-- timelines for review and response;
+- timelines for review and response (including acknowledgement within 5 business days where feasible);
 - escalation pathways; and
 - appeals procedures.
 

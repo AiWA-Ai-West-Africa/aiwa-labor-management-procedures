@@ -6,6 +6,7 @@ Machine-readable Labor Management Procedures for AI West Africa (AIWA), authored
 
 - `lmp/` - Primary LMP source documents in Markdown
 - `docs/` - Reference documents (to be added over time)
+- `templates/` - Optional Pandoc templates (for branded DOCX styling)
 - `.github/workflows/` - Automation for document generation
 
 ## Authoring Model
@@ -15,5 +16,6 @@ Machine-readable Labor Management Procedures for AI West Africa (AIWA), authored
 3. On every push to `main` and on pull requests, GitHub Actions generates:
    - PDF (`.pdf`)
    - Word (`.docx`) for Google Workspace compatibility
+   - table of contents and numbered sections
 
 Generated files are attached as workflow artifacts in GitHub Actions.
