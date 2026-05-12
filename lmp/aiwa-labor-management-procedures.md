@@ -26,6 +26,12 @@ This LMP is designed to:
 
 This LMP does not convert all participation into employment and does not create an employment relationship where none exists under contract or law.
 
+### 1.1 Interpretation of California-Style Standards
+
+In this LMP, references to California-style standards mean internal operational safeguards modeled on internationally recognized worker protection practices commonly associated with California workplace governance, including anti-harassment controls, anti-retaliation protections, confidential reporting channels, accommodation principles, conflict disclosure expectations, and professional conduct enforcement.
+
+These references describe voluntary internal standards only and do not assert legal applicability of California employment statutes unless legally required.
+
 ## 2. Institutional Structure
 
 The ecosystem includes distinct institutions with separate legal and operational roles:
@@ -44,6 +50,8 @@ This LMP preserves role boundaries and does not transfer ownership or legal righ
 ## 3. Worker and Participant Classifications
 
 The following categories are distinct and must not be collapsed:
+
+Classification is determined by legal and contractual reality, not by label alone. No category in this Section is automatically converted into employment status by policy wording.
 
 ### 3.1 Employees
 Persons engaged under a formal employment relationship governed by applicable law and written employment terms.
@@ -73,7 +81,7 @@ Authorized personnel responsible for infrastructure operations, system administr
 
 AIWA and participating operational entities prohibit unlawful discrimination in recruitment, assignment, supervision, advancement, discipline, and termination decisions.
 
-Protected characteristics are handled in line with Gambian law and applicable contractual policy. Where lawful and practicable, internal standards may adopt higher anti-discrimination safeguards modeled on internationally recognized workplace governance and California-style compliance practices, including strengthened anti-harassment protections, accommodation principles, and protected reporting access.
+Protected characteristics are handled in line with Gambian law and applicable contractual policy. Where lawful and practicable, internal standards may adopt higher anti-discrimination safeguards modeled on internationally recognized workplace governance and California-style standards described in Section 1.1, including strengthened anti-harassment protections, accommodation principles, and protected reporting access.
 
 No person may be excluded from opportunity, governance participation, or reporting channels based on identity, background, language community, disability status, or lawful protected status.
 
@@ -88,7 +96,7 @@ Professional conduct requires:
 - cooperation with governance reviews; and
 - refusal of exploitative or retaliatory behavior.
 
-AIWA and Starisian may voluntarily adopt operational standards modeled on internationally recognized workplace governance and California-style compliance practices where consistent with Gambian law, including anti-harassment training expectations, professional conduct enforcement, and anti-retaliation safeguards.
+AIWA and Starisian may voluntarily adopt operational standards modeled on internationally recognized workplace governance and California-style standards described in Section 1.1 where consistent with Gambian law, including anti-harassment training expectations, professional conduct enforcement, and anti-retaliation safeguards.
 
 ## 6. Safeguarding and Child Protection
 
@@ -166,7 +174,7 @@ AIWA provides reporting channels for labor concerns, misconduct, safeguarding in
 
 Reports may be submitted through designated internal pathways, including confidential channels where available. Reporting in good faith is protected.
 
-Where lawful and practicable, reporting protections may incorporate California-style whistleblower governance principles as internal operational standards, including confidential reporting channels, good-faith reporter protection, and prohibition of adverse action for protected disclosures.
+Where lawful and practicable, reporting protections may incorporate California-style whistleblower governance principles described in Section 1.1 as internal operational standards, including confidential reporting channels, good-faith reporter protection, and prohibition of adverse action for protected disclosures.
 
 ## 12. Anti-Retaliation Protections
 
@@ -275,6 +283,6 @@ Amendments require designated governance approval and documented version control
 
 Legally mandatory employment matters in The Gambia are governed by applicable Gambian law.
 
-AIWA and Starisian may voluntarily apply higher operational standards where lawful and practicable, including internal standards modeled on internationally recognized workplace governance and California-style worker protection practices.
+AIWA and Starisian may voluntarily apply higher operational standards where lawful and practicable, including internal standards modeled on internationally recognized workplace governance and California-style standards described in Section 1.1.
 
 This LMP does not represent a legal claim of direct compliance with California employment statutes where such statutes do not legally apply.
