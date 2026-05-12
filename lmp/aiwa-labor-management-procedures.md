@@ -73,7 +73,7 @@ Authorized personnel responsible for infrastructure operations, system administr
 
 AIWA and participating operational entities prohibit unlawful discrimination in recruitment, assignment, supervision, advancement, discipline, and termination decisions.
 
-Protected characteristics are handled in line with Gambian law and applicable contractual policy. Where lawful and practicable, internal standards may adopt higher anti-discrimination safeguards modeled on internationally recognized workplace governance and California-style compliance practices.
+Protected characteristics are handled in line with Gambian law and applicable contractual policy. Where lawful and practicable, internal standards may adopt higher anti-discrimination safeguards modeled on internationally recognized workplace governance and California-style compliance practices, including strengthened anti-harassment protections, accommodation principles, and protected reporting access.
 
 No person may be excluded from opportunity, governance participation, or reporting channels based on identity, background, language community, disability status, or lawful protected status.
 
@@ -88,7 +88,7 @@ Professional conduct requires:
 - cooperation with governance reviews; and
 - refusal of exploitative or retaliatory behavior.
 
-AIWA and Starisian may voluntarily adopt operational standards modeled on internationally recognized workplace governance and California-style compliance practices where consistent with Gambian law.
+AIWA and Starisian may voluntarily adopt operational standards modeled on internationally recognized workplace governance and California-style compliance practices where consistent with Gambian law, including anti-harassment training expectations, professional conduct enforcement, and anti-retaliation safeguards.
 
 ## 6. Safeguarding and Child Protection
 
@@ -166,7 +166,7 @@ AIWA provides reporting channels for labor concerns, misconduct, safeguarding in
 
 Reports may be submitted through designated internal pathways, including confidential channels where available. Reporting in good faith is protected.
 
-Where lawful and practicable, reporting protections may incorporate California-style whistleblower governance principles as internal operational standards.
+Where lawful and practicable, reporting protections may incorporate California-style whistleblower governance principles as internal operational standards, including confidential reporting channels, good-faith reporter protection, and prohibition of adverse action for protected disclosures.
 
 ## 12. Anti-Retaliation Protections
 
