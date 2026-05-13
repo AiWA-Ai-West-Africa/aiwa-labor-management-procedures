@@ -12,7 +12,7 @@ numbersections: true
 
 ## 1. Purpose and Scope
 
-This Labor Management Procedures (LMP) document establishes workforce conduct, labor safeguards, contributor-integrity, and participant accountability requirements for AIWA as a Gambian for-profit educational publishing, language-preservation, contributor-rights administration, and governance-aware technology organization.
+This Labor Management Procedures (LMP) document establishes workforce conduct, labor safeguards, contributor-integrity, and participant accountability requirements for AIWA as a Gambian for-profit educational publishing and language-technology organization with contributor-rights administration responsibilities.
 
 This LMP applies to AIWA workforce and participant activities and, where contractually required, to technical service providers supporting AIWA operations.
 
@@ -43,7 +43,7 @@ The following roles apply for this LMP:
 
 AIWA retains workforce governance authority and policy accountability even where technical services are outsourced.
 
-Certain governed technical and operational environments supporting AIWA activities may be developed, operated, or maintained by affiliated infrastructure and software providers operating under applicable governance, confidentiality, safeguarding, provenance, and operational-integrity requirements.
+Certain governed technical and operational environments supporting AIWA activities may be developed, operated, or maintained by contracted or legally affiliated infrastructure and software providers. Such providers must operate under applicable governance, confidentiality, safeguarding, provenance, and operational-integrity requirements, and AIWA remains accountable for enforcing these requirements through documented contracts and oversight controls.
 
 This LMP preserves role boundaries and does not transfer ownership or legal rights except through formal written instruments.
 
@@ -133,7 +133,7 @@ Provenance verification is mandatory. Contributor identity context, sourcing, pe
 Contributor works remain contributor-owned unless separately assigned in writing. This LMP does not transfer contributor ownership to AIWA or contracted technical service providers.
 
 ### 7.6 Contributor Benefit and Rights Integrity
-AIWA commercial, publishing, and licensing activities must operate consistently with contributor-rights protections, provenance integrity, attribution obligations, cultural stewardship principles, and applicable royalty governance frameworks.
+AIWA commercial, publishing, and licensing activities must operate consistently with contributor-rights protections, provenance integrity, attribution obligations, cultural stewardship principles, and applicable royalty governance requirements in law, approved contracts, and AIWA royalty-administration policies.
 
 ## 8. Confidentiality and Data Stewardship
 
