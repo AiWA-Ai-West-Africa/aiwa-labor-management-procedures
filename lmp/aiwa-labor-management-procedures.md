@@ -232,9 +232,10 @@ All covered persons must follow safety instructions and report hazards promptly.
 ### 13.1 Attendance and Leave Principles
 Attendance expectations, working-time arrangements, and leave administration must follow contract terms, role requirements, approved schedules, and applicable Gambian labor law.
 
-Compensation practices must comply with applicable Gambian labor law, contractual obligations, and approved compensation policies.
-
 Absence, lateness, or leave requests should be communicated through designated channels as early as practicable.
+
+### 13.2 Compensation Compliance
+Compensation practices must comply with applicable Gambian labor law, contractual obligations, and approved compensation policies.
 
 ## 14. Records and Information Retention
 
