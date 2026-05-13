@@ -14,6 +14,8 @@ numbersections: true
 
 This Labor Management Procedures (LMP) document establishes workforce conduct, labor safeguards, contributor-integrity, and participant accountability requirements for AIWA as a Gambian for-profit educational publishing and language-technology organization with contributor-rights administration responsibilities.
 
+AIWA operates as a for-profit company under Gambian law, including in its educational publishing, language-preservation, technology, and rights-administration activities.
+
 This LMP applies to AIWA workforce and participant activities and, where contractually required, to technical service providers supporting AIWA operations.
 
 This LMP is designed to:
@@ -135,6 +137,11 @@ Contributor works remain contributor-owned unless separately assigned in writing
 ### 7.6 Contributor Benefit and Rights Integrity
 AIWA commercial, publishing, and licensing activities must operate consistently with contributor-rights protections, provenance integrity, attribution obligations, cultural stewardship principles, and applicable royalty governance requirements in law, approved contracts, and AIWA royalty-administration policies.
 
+### 7.7 Employment-Created Work and Pre-Existing Materials
+Employee-created work product developed within the scope of employment or under assigned duties is governed by applicable Gambian law and written employment or intellectual-property terms.
+
+Pre-existing materials remain owned by their original rights holders unless separately assigned in writing. Contributor-owned materials remain subject to Section 7.5 unless lawfully reassigned by formal written instrument.
+
 ## 8. Confidentiality and Data Stewardship
 
 Covered persons must protect confidential information, governance records, security-sensitive operational information, and personal data handled during authorized duties.
@@ -164,7 +171,12 @@ Prohibited conduct includes:
 
 Authorized users must protect passwords, credentials, and devices and must report suspected misuse promptly.
 
+Required digital-security practices include credential confidentiality, multi-factor authentication where enabled, prompt reporting of suspected phishing or account compromise, and secure handling of approved devices and remote-work access channels.
+
+Organizational systems, devices, accounts, and communications resources may be monitored, logged, reviewed, secured, or audited for lawful operational, safeguarding, governance, security, and compliance purposes consistent with applicable law.
+
 Public statements and social media activity must not disclose confidential information, misrepresent AIWA decisions, or publish restricted materials without authorization.
+Public media engagement or policy representation on behalf of AIWA requires designated authorization.
 
 ## 10. Conflict of Interest Standards
 
@@ -220,6 +232,8 @@ All covered persons must follow safety instructions and report hazards promptly.
 ### 13.1 Attendance and Leave Principles
 Attendance expectations, working-time arrangements, and leave administration must follow contract terms, role requirements, approved schedules, and applicable Gambian labor law.
 
+Compensation practices must comply with applicable Gambian labor law, contractual obligations, and approved compensation policies.
+
 Absence, lateness, or leave requests should be communicated through designated channels as early as practicable.
 
 ## 14. Records and Information Retention
@@ -227,6 +241,8 @@ Absence, lateness, or leave requests should be communicated through designated c
 Workforce records, grievance records, incident files, and safeguarding records must be maintained according to applicable legal requirements and approved retention schedules.
 
 Records must be accurate, access-controlled, and preserved against tampering, unauthorized deletion, or retaliatory destruction.
+
+Access to personnel, safeguarding, grievance, and incident records is limited to authorized personnel with a defined need-to-know role.
 
 ## 15. Cultural Respect and Community Conduct
 
@@ -266,7 +282,6 @@ Volunteer participation must include defined supervision lines, safeguarding bou
 Role assignment must be based on documented duties, expected hours, supervision level, compensation status, continuity of service, and applicable Gambian labor law and contract terms.
 Roles involving continuous core operational duties, formal managerial authority, or legally mandated employee protections must be assigned through lawful employment arrangements rather than volunteer designation.
 Any specific hour, duration, or continuity thresholds are determined by applicable Gambian labor legislation, regulations, and contract terms, not by volunteer labels alone.
-For this Section, continuous duties generally means scheduled recurring operational duties extending beyond 4 consecutive weeks unless applicable Gambian labor legislation or contract terms require a stricter threshold.
 Examples:
 - Employment-aligned roles: full-time recurring operations coordination; staff-line management.
 - Volunteer-aligned roles: supervised short-term community event support; limited mentorship support.
