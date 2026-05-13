@@ -176,7 +176,7 @@ Required digital-security practices include credential confidentiality, multi-fa
 Organizational systems, devices, accounts, and communications resources may be monitored, logged, reviewed, secured, or audited for lawful operational, safeguarding, governance, security, and compliance purposes consistent with applicable law.
 
 Public statements and social media activity must not disclose confidential information, misrepresent AIWA decisions, or publish restricted materials without authorization.
-Public media engagement or policy representation on behalf of AIWA requires designated authorization.
+Public media engagement or policy representation on behalf of AIWA requires prior written authorization from designated management or governance authority.
 
 ## 10. Conflict of Interest Standards
 
@@ -242,7 +242,7 @@ Workforce records, grievance records, incident files, and safeguarding records m
 
 Records must be accurate, access-controlled, and preserved against tampering, unauthorized deletion, or retaliatory destruction.
 
-Access to personnel, safeguarding, grievance, and incident records is limited to authorized personnel with a defined need-to-know role.
+Access to personnel, safeguarding, grievance, and incident records is limited to authorized personnel with a documented need-to-know determination made under approved access-control procedures.
 
 ## 15. Cultural Respect and Community Conduct
 
