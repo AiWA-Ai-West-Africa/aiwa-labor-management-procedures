@@ -245,7 +245,7 @@ Access to personnel, safeguarding, grievance, and incident records is limited to
 
 ## 15. Cultural Respect and Community Conduct
 
-All work and participation must reflect respect for language communities, cultural heritage, and community stewardship norms.
+All work and participation must reflect respect for language communities, cultural heritage, and community operational norms.
 
 Community conduct requirements include:
 - non-extractive engagement;
