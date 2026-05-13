@@ -12,7 +12,7 @@ numbersections: true
 
 ## 1. Purpose and Scope
 
-This Labor Management Procedures (LMP) document establishes workforce conduct, labor safeguards, contributor-integrity, and participant accountability requirements for AIWA as a Gambian educational, publishing, language-preservation, contributor-stewardship, and cultural-governance institution.
+This Labor Management Procedures (LMP) document establishes workforce conduct, labor safeguards, contributor-integrity, and participant accountability requirements for AIWA as a Gambian for-profit educational publishing, language-preservation, contributor-rights administration, and governance-aware technology organization.
 
 This LMP applies to AIWA workforce and participant activities and, where contractually required, to technical service providers supporting AIWA operations.
 
@@ -38,10 +38,12 @@ The following roles apply for this LMP:
 
 | Entity | Primary Function |
 |---|---|
-| AIWA | Educational publishing, contributor stewardship, language preservation, workforce governance administration |
+| AIWA | For-profit educational publishing, contributor-rights administration, language preservation, workforce governance administration, and rights-governed commercialization |
 | Technical Service Providers | Infrastructure and operational support services where contracted |
 
 AIWA retains workforce governance authority and policy accountability even where technical services are outsourced.
+
+Certain governed technical and operational environments supporting AIWA activities may be developed, operated, or maintained by affiliated infrastructure and software providers operating under applicable governance, confidentiality, safeguarding, provenance, and operational-integrity requirements.
 
 This LMP preserves role boundaries and does not transfer ownership or legal rights except through formal written instruments.
 
@@ -63,10 +65,10 @@ Trained and authorized facilitators engaged to support programme delivery, moder
 ### 3.4 Volunteers
 Non-compensated support participants with defined roles and supervision limits. Volunteer status does not imply employment unless legally required.
 
-### 3.5 Cultural Contributors
-Rights-holding creative and knowledge participants who provide contributor-authorized materials under governance terms.
+### 3.5 Governed Contributors
+Rights-holding contributors, including creative, linguistic, technical, and knowledge participants, who provide contributor-authorized materials under governance terms.
 
-### 3.6 Student Cultural Contributors
+### 3.6 Student Governed Contributors
 Educational programme contributors participating in learning-linked creation or submission processes. Student participation does not transfer ownership rights.
 
 ### 3.7 Governance Participants
@@ -130,9 +132,14 @@ Provenance verification is mandatory. Contributor identity context, sourcing, pe
 ### 7.5 Ownership Boundaries
 Contributor works remain contributor-owned unless separately assigned in writing. This LMP does not transfer contributor ownership to AIWA or contracted technical service providers.
 
+### 7.6 Contributor Benefit and Rights Integrity
+AIWA commercial, publishing, and licensing activities must operate consistently with contributor-rights protections, provenance integrity, attribution obligations, cultural stewardship principles, and applicable royalty governance frameworks.
+
 ## 8. Confidentiality and Data Stewardship
 
 Covered persons must protect confidential information, governance records, security-sensitive operational information, and personal data handled during authorized duties.
+
+Governance-sensitive information, provenance-sensitive records, and restricted cultural-material records require classification and handling controls that are at least as strict as ordinary confidential information.
 
 Data stewardship responsibilities include:
 - need-to-know access discipline;
@@ -231,6 +238,8 @@ Community conduct requirements include:
 - prohibition on degrading or mocking cultural expressions;
 - compliance with restricted-access conditions; and
 - responsible public communications consistent with governance obligations.
+
+AIWA activities must be conducted in a manner that avoids exploitative extraction of contributor labor, cultural knowledge, or governed materials.
 
 ## 16. Discipline and Corrective Measures
 
