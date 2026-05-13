@@ -20,7 +20,7 @@ This LMP applies to AIWA workforce and participant activities and, where contrac
 
 This LMP is designed to:
 - protect contributor dignity;
-- prevent exploitation, harassment, retaliation, and governance abuse;
+- prevent exploitation, harassment, retaliation, and policy abuse;
 - reinforce safeguarding and cultural respect obligations;
 - protect confidentiality and data stewardship;
 - uphold provenance integrity and lawful contribution requirements; and
@@ -40,10 +40,10 @@ The following roles apply for this LMP:
 
 | Entity | Primary Function |
 |---|---|
-| AIWA | For-profit educational publishing, contributor-rights administration, language preservation, workforce governance administration, and rights-governed commercialization |
+| AIWA | For-profit educational publishing, contributor-rights administration, language preservation, workforce policy administration, and rights-governed commercialization |
 | Technical Service Providers | Infrastructure and operational support services where contracted |
 
-AIWA retains workforce governance authority and policy accountability even where technical services are outsourced.
+AIWA retains workforce policy authority and accountability even where technical services are outsourced.
 
 Certain governed technical and operational environments supporting AIWA activities may be developed, operated, or maintained by contracted or legally affiliated infrastructure and software providers. Such providers must operate under applicable governance, confidentiality, safeguarding, provenance, and operational-integrity requirements, and AIWA remains accountable for enforcing these requirements through documented contracts and oversight controls.
 
@@ -95,12 +95,10 @@ Professional conduct requires:
 - respectful communications;
 - non-abusive supervision;
 - compliance with safeguarding and confidentiality controls;
-- cooperation with governance reviews; and
+- cooperation with compliance reviews; and
 - refusal of exploitative or retaliatory behavior.
 
 Code of conduct values include dignity, stewardship, cultural respect, professionalism, lawful conduct, safeguarding, and accountability.
-
-AIWA may voluntarily adopt operational standards aligned with internationally recognized workplace protection practice where consistent with Gambian law, including anti-harassment training expectations, professional conduct enforcement, and anti-retaliation safeguards.
 
 ## 6. Safeguarding and Child Protection
 
@@ -247,14 +245,14 @@ Access to personnel, safeguarding, grievance, and incident records is limited to
 
 ## 15. Cultural Respect and Community Conduct
 
-All work and participation must reflect respect for language communities, cultural heritage, and community governance norms.
+All work and participation must reflect respect for language communities, cultural heritage, and community stewardship norms.
 
 Community conduct requirements include:
 - non-extractive engagement;
 - respectful treatment of cultural context and meaning;
 - prohibition on degrading or mocking cultural expressions;
 - compliance with restricted-access conditions; and
-- responsible public communications consistent with governance obligations.
+- responsible public communications consistent with policy obligations.
 
 AIWA activities must be conducted in a manner that avoids exploitative extraction of contributor labor, cultural knowledge, or governed materials.
 
@@ -287,9 +285,9 @@ Examples:
 - Employment-aligned roles: full-time recurring operations coordination; staff-line management.
 - Volunteer-aligned roles: supervised short-term community event support; limited mentorship support.
 
-Where operationally relevant, contractors and volunteers must complete required governance and safeguarding training before active assignment.
+Where operationally relevant, contractors and volunteers must complete required policy and safeguarding training before active assignment.
 
-## 18. Training and Governance Awareness
+## 18. Training and Policy Awareness
 
 Role-appropriate training is mandatory for applicable personnel and participants, including:
 - anti-harassment and professional conduct;
@@ -317,21 +315,21 @@ Includes safeguarding concerns, harassment, discrimination, retaliation, confide
 - closure tracking with corrective follow-up.
 
 ### 19.3 Record Integrity
-Incident records must be preserved with access control and governance oversight.
+Incident records must be preserved with access control and designated oversight.
 
-## 20. Governance Review and Amendment Procedures
+## 20. Policy Review and Amendment Procedures
 
-This LMP is a living governance document and may be reviewed periodically or when legal, operational, safeguarding, or governance changes require revision.
+This LMP is a living policy document and may be reviewed periodically or when legal, operational, or safeguarding changes require revision.
 
 Review should consider:
 - Gambian legal requirements;
 - workforce and participant risk trends;
 - safeguarding and incident data;
 - provenance and data stewardship findings;
-- governance process effectiveness; and
+- policy process effectiveness; and
 - institutional role boundary clarity.
 
-Amendments require designated governance approval and documented version control.
+Amendments require designated approval authority and documented version control.
 
 ## Legal Position and Applicable Standards
 
