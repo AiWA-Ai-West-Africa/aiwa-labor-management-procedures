@@ -94,13 +94,13 @@ Professional conduct requires:
 - cooperation with governance reviews; and
 - refusal of exploitative or retaliatory behavior.
 
+Code of conduct values include dignity, stewardship, cultural respect, professionalism, lawful conduct, safeguarding, and accountability.
+
 AIWA may voluntarily adopt operational standards aligned with internationally recognized workplace protection practice where consistent with Gambian law, including anti-harassment training expectations, professional conduct enforcement, and anti-retaliation safeguards.
 
 ## 6. Safeguarding and Child Protection
 
 Safeguarding obligations apply to all covered persons and override operational convenience.
-
-Code of conduct values include dignity, stewardship, cultural respect, professionalism, lawful conduct, safeguarding, and accountability.
 
 Required controls include:
 - role-appropriate safeguarding training;
@@ -177,8 +177,8 @@ AIWA provides reporting channels for labor concerns, misconduct, safeguarding in
 
 Reports may be submitted through designated internal pathways, including confidential channels where available. Reporting in good faith is protected.
 
-Grievance and complaint resolution follows basic procedural fairness:
-- acknowledgement of receipt within 5 working days where practicable;
+Reports and complaints submitted under this Section follow basic procedural fairness:
+- acknowledgement of receipt within 5 calendar days where practicable;
 - initial review and risk triage;
 - impartial assessment by designated authority;
 - written outcome communication, normally within 30 calendar days unless complexity requires extension; and
@@ -254,6 +254,14 @@ Contractor and volunteer engagement must not be used to evade lawful labor prote
 
 Volunteer participation must include defined supervision lines, safeguarding boundaries, and anti-exploitation controls, and must not be used as a replacement for required formal employment roles.
 
+Role assignment must be based on documented duties, expected hours, supervision level, compensation status, continuity of service, and applicable Gambian labor law and contract terms.
+Roles involving continuous core operational duties, formal managerial authority, or legally mandated employee protections must be assigned through lawful employment arrangements rather than volunteer designation.
+Any specific hour, duration, or continuity thresholds are determined by applicable Gambian labor legislation, regulations, and contract terms, not by volunteer labels alone.
+For this Section, continuous duties generally means scheduled recurring operational duties extending beyond 4 consecutive weeks unless applicable Gambian labor legislation or contract terms require a stricter threshold.
+Examples:
+- Employment-aligned roles: full-time recurring operations coordination; staff-line management.
+- Volunteer-aligned roles: supervised short-term community event support; limited mentorship support.
+
 Where operationally relevant, contractors and volunteers must complete required governance and safeguarding training before active assignment.
 
 ## 18. Training and Governance Awareness
@@ -304,6 +312,4 @@ Amendments require designated governance approval and documented version control
 
 Employment relationships are governed by applicable Gambian labor laws, including laws relating to wages, working conditions, termination, workplace protections, and dispute resolution.
 
-Legally mandatory employment matters in The Gambia are governed by applicable Gambian law.
-
-This LMP does not represent a legal claim of direct compliance with California employment statutes where such statutes do not legally apply.
+This LMP does not represent a legal claim of compliance with non-Gambian employment statutes where such statutes do not legally apply.
