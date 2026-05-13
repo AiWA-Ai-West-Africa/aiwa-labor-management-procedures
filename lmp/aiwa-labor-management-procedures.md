@@ -245,7 +245,7 @@ Access to personnel, safeguarding, grievance, and incident records is limited to
 
 ## 15. Cultural Respect and Community Conduct
 
-All work and participation must reflect respect for language communities, cultural heritage, and community operational norms.
+All work and participation must reflect respect for language communities, cultural heritage, and community cultural norms.
 
 Community conduct requirements include:
 - non-extractive engagement;
@@ -315,7 +315,7 @@ Includes safeguarding concerns, harassment, discrimination, retaliation, confide
 - closure tracking with corrective follow-up.
 
 ### 19.3 Record Integrity
-Incident records must be preserved with access control and designated oversight.
+Incident records must be preserved with access control and designated oversight authority.
 
 ## 20. Policy Review and Amendment Procedures
 
