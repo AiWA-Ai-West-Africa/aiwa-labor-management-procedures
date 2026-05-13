@@ -12,9 +12,9 @@ numbersections: true
 
 ## 1. Purpose and Scope
 
-This Labor Management Procedures (LMP) document establishes workforce integrity, labor governance, and participant conduct requirements for a governance-aware educational, publishing, language-preservation, and AI-enabled infrastructure environment operating under contributor-rights, provenance, safeguarding, and cultural stewardship principles.
+This Labor Management Procedures (LMP) document establishes workforce conduct, labor safeguards, contributor-integrity, and participant accountability requirements for AIWA as a Gambian educational, publishing, language-preservation, contributor-stewardship, and cultural-governance institution.
 
-This LMP applies across activities connected to AI West Africa (AIWA) governance and contributor stewardship functions and, where contractually adopted, to operational functions delivered in the SPARXSTAR Digital Village Elder (DVE) governance-integrated operational environment.
+This LMP applies to AIWA workforce and participant activities and, where contractually required, to technical service providers supporting AIWA operations.
 
 This LMP is designed to:
 - protect contributor dignity;
@@ -26,26 +26,24 @@ This LMP is designed to:
 
 This LMP does not convert all participation into employment and does not create an employment relationship where none exists under contract or law.
 
-### 1.1 Interpretation of California-Style Standards
+### 1.1 Enhanced Internal Standards
 
-In this LMP, references to California-style standards mean internal operational safeguards modeled on internationally recognized worker protection practices commonly associated with California workplace governance, including anti-harassment controls, anti-retaliation protections, confidential reporting channels, accommodation principles, conflict disclosure expectations, and professional conduct enforcement.
+AIWA may adopt enhanced internal operational standards aligned with internationally recognized workplace protection, safeguarding, anti-harassment, anti-retaliation, and professional-conduct principles where consistent with Gambian law.
 
-These references describe voluntary internal standards only and do not assert legal applicability of California employment statutes unless legally required.
+These references describe voluntary internal standards only and do not assert legal applicability of non-Gambian employment statutes unless legally required.
 
-## 2. Institutional Structure
+## 2. Institutional Roles
 
-The ecosystem includes distinct institutions with separate legal and operational roles:
+The following roles apply for this LMP:
 
 | Entity | Primary Function |
 |---|---|
-| AIWA | Governance, contributor stewardship, educational publishing, rights administration |
-| Starisian Technologies | Software, infrastructure, AI systems, patents |
-| DVE | Governance-integrated operational environment |
-| SPARXSTAR | Technical infrastructure layer |
+| AIWA | Educational publishing, contributor stewardship, language preservation, workforce governance administration |
+| Technical Service Providers | Infrastructure and operational support services where contracted |
 
-AIWA is legally and operationally independent from Starisian Technologies. AIWA sets governance policy and stewardship standards. Starisian develops and operates infrastructure and technical systems that implement approved governance controls.
+AIWA retains workforce governance authority and policy accountability even where technical services are outsourced.
 
-This LMP preserves role boundaries and does not transfer ownership or legal rights between institutions except through formal written instruments.
+This LMP preserves role boundaries and does not transfer ownership or legal rights except through formal written instruments.
 
 ## 3. Worker and Participant Classifications
 
@@ -65,10 +63,10 @@ Trained and authorized facilitators engaged to support programme delivery, moder
 ### 3.4 Volunteers
 Non-compensated support participants with defined roles and supervision limits. Volunteer status does not imply employment unless legally required.
 
-### 3.5 Contributors
+### 3.5 Cultural Contributors
 Rights-holding creative and knowledge participants who provide contributor-authorized materials under governance terms.
 
-### 3.6 Student Contributors
+### 3.6 Student Cultural Contributors
 Educational programme contributors participating in learning-linked creation or submission processes. Student participation does not transfer ownership rights.
 
 ### 3.7 Governance Participants
@@ -81,7 +79,7 @@ Authorized personnel responsible for infrastructure operations, system administr
 
 AIWA and participating operational entities prohibit unlawful discrimination in recruitment, assignment, supervision, advancement, discipline, and termination decisions.
 
-Protected characteristics are handled in line with Gambian law and applicable contractual policy. Where lawful and practicable, internal standards may adopt higher anti-discrimination safeguards modeled on internationally recognized workplace governance and California-style standards described in Section 1.1, including strengthened anti-harassment protections, accommodation principles, and protected reporting access.
+Protected characteristics are handled in line with Gambian law and applicable contractual policy. Where lawful and practicable, internal standards may adopt higher anti-discrimination safeguards aligned with internationally recognized workplace protection practice.
 
 No person may be excluded from opportunity, governance participation, or reporting channels based on identity, background, language community, disability status, or lawful protected status.
 
@@ -96,11 +94,13 @@ Professional conduct requires:
 - cooperation with governance reviews; and
 - refusal of exploitative or retaliatory behavior.
 
-AIWA and Starisian may voluntarily adopt operational standards modeled on internationally recognized workplace governance and California-style standards described in Section 1.1 where consistent with Gambian law, including anti-harassment training expectations, professional conduct enforcement, and anti-retaliation safeguards.
+AIWA may voluntarily adopt operational standards aligned with internationally recognized workplace protection practice where consistent with Gambian law, including anti-harassment training expectations, professional conduct enforcement, and anti-retaliation safeguards.
 
 ## 6. Safeguarding and Child Protection
 
 Safeguarding obligations apply to all covered persons and override operational convenience.
+
+Code of conduct values include dignity, stewardship, cultural respect, professionalism, lawful conduct, safeguarding, and accountability.
 
 Required controls include:
 - role-appropriate safeguarding training;
@@ -128,7 +128,7 @@ Restricted cultural materials, Traditional Cultural Expressions (TCEs), and prot
 Provenance verification is mandatory. Contributor identity context, sourcing, permissions, and governance constraints must remain attached to governed materials as required by policy.
 
 ### 7.5 Ownership Boundaries
-Contributor works remain contributor-owned unless separately assigned in writing. This LMP does not transfer contributor ownership to AIWA or Starisian.
+Contributor works remain contributor-owned unless separately assigned in writing. This LMP does not transfer contributor ownership to AIWA or contracted technical service providers.
 
 ## 8. Confidentiality and Data Stewardship
 
@@ -143,18 +143,21 @@ Data stewardship responsibilities include:
 
 Confidentiality obligations continue after role completion where contract or policy so provides.
 
-## 9. AI Governance Awareness and Acceptable Use
+## 9. Authorized Technology and AI Use
 
-Governed AI processing must comply with authorized permissions, rights classification, provenance constraints, and cultural protections.
+Use of organizational devices, systems, collaboration tools, and AI-enabled tools must follow authorized permissions, confidentiality duties, and provenance protections.
 
 Prohibited conduct includes:
 - use of unauthorized datasets or contributor-authorized materials beyond approved permissions;
 - removal or falsification of provenance metadata;
 - processing restricted cultural materials without authorization;
-- circumvention of governance controls; and
-- use of systems in ways that undermine rights or safeguarding.
+- circumvention of access or security controls;
+- unauthorized personal or commercial use of organizational systems; and
+- use of systems in ways that undermine rights, safeguarding, or lawful operations.
 
-AI governance awareness training is required for roles that handle governed AI processing.
+Authorized users must protect passwords, credentials, and devices and must report suspected misuse promptly.
+
+Public statements and social media activity must not disclose confidential information, misrepresent AIWA decisions, or publish restricted materials without authorization.
 
 ## 10. Conflict of Interest Standards
 
@@ -174,7 +177,12 @@ AIWA provides reporting channels for labor concerns, misconduct, safeguarding in
 
 Reports may be submitted through designated internal pathways, including confidential channels where available. Reporting in good faith is protected.
 
-Where lawful and practicable, reporting protections may incorporate California-style whistleblower governance principles described in Section 1.1 as internal operational standards, including confidential reporting channels, good-faith reporter protection, and prohibition of adverse action for protected disclosures.
+Grievance and complaint resolution follows basic procedural fairness:
+- acknowledgement of receipt within 5 working days where practicable;
+- initial review and risk triage;
+- impartial assessment by designated authority;
+- written outcome communication, normally within 30 calendar days unless complexity requires extension; and
+- escalation to higher governance review where requested or required.
 
 ## 12. Anti-Retaliation Protections
 
@@ -202,7 +210,18 @@ Expected controls include:
 
 All covered persons must follow safety instructions and report hazards promptly.
 
-## 14. Cultural Respect and Community Conduct
+### 13.1 Attendance and Leave Principles
+Attendance expectations, working-time arrangements, and leave administration must follow contract terms, role requirements, approved schedules, and applicable Gambian labor law.
+
+Absence, lateness, or leave requests should be communicated through designated channels as early as practicable.
+
+## 14. Records and Information Retention
+
+Workforce records, grievance records, incident files, and safeguarding records must be maintained according to applicable legal requirements and approved retention schedules.
+
+Records must be accurate, access-controlled, and preserved against tampering, unauthorized deletion, or retaliatory destruction.
+
+## 15. Cultural Respect and Community Conduct
 
 All work and participation must reflect respect for language communities, cultural heritage, and community governance norms.
 
@@ -213,7 +232,7 @@ Community conduct requirements include:
 - compliance with restricted-access conditions; and
 - responsible public communications consistent with governance obligations.
 
-## 15. Discipline and Corrective Measures
+## 16. Discipline and Corrective Measures
 
 Non-compliance may result in proportionate corrective action based on severity, recurrence, and risk profile.
 
@@ -227,15 +246,17 @@ Possible actions include:
 
 Safeguarding breaches, harassment, retaliation, provenance manipulation, and unauthorized use of restricted materials are treated as high-severity violations.
 
-## 16. Contractor and Volunteer Standards
+## 17. Contractor and Volunteer Standards
 
 Contractors and volunteers must operate under documented terms that define scope, conduct obligations, confidentiality requirements, safeguarding duties, and reporting responsibilities.
 
 Contractor and volunteer engagement must not be used to evade lawful labor protections.
 
+Volunteer participation must include defined supervision lines, safeguarding boundaries, and anti-exploitation controls, and must not be used as a replacement for required formal employment roles.
+
 Where operationally relevant, contractors and volunteers must complete required governance and safeguarding training before active assignment.
 
-## 17. Training and Governance Awareness
+## 18. Training and Governance Awareness
 
 Role-appropriate training is mandatory for applicable personnel and participants, including:
 - anti-harassment and professional conduct;
@@ -244,28 +265,28 @@ Role-appropriate training is mandatory for applicable personnel and participants
 - confidentiality and data stewardship;
 - conflict disclosure;
 - anti-retaliation and reporting protections; and
-- AI governance awareness for governed AI processing roles.
+- authorized technology and AI-use responsibilities.
 
 Training completion and authorization status should be recorded for accountability.
 
-## 18. Incident Reporting and Escalation
+## 19. Incident Reporting and Escalation
 
 Incidents must be documented and escalated according to severity and risk.
 
-### 18.1 Reportable Incidents
+### 19.1 Reportable Incidents
 Includes safeguarding concerns, harassment, discrimination, retaliation, confidentiality breach, provenance violation, cultural misuse, and major safety/security events.
 
-### 18.2 Escalation Principles
+### 19.2 Escalation Principles
 - immediate escalation for high-risk safeguarding or security events;
 - confidential handling consistent with legal and policy obligations;
 - impartial review with documented findings;
 - timely protective measures where needed; and
 - closure tracking with corrective follow-up.
 
-### 18.3 Record Integrity
+### 19.3 Record Integrity
 Incident records must be preserved with access control and governance oversight.
 
-## 19. Governance Review and Amendment Procedures
+## 20. Governance Review and Amendment Procedures
 
 This LMP is a living governance document and may be reviewed periodically or when legal, operational, safeguarding, or governance changes require revision.
 
@@ -281,8 +302,8 @@ Amendments require designated governance approval and documented version control
 
 ## Legal Position and Applicable Standards
 
-Legally mandatory employment matters in The Gambia are governed by applicable Gambian law.
+Employment relationships are governed by applicable Gambian labor laws, including laws relating to wages, working conditions, termination, workplace protections, and dispute resolution.
 
-AIWA and Starisian may voluntarily apply higher operational standards where lawful and practicable, including internal standards modeled on internationally recognized workplace governance and California-style standards described in Section 1.1.
+Legally mandatory employment matters in The Gambia are governed by applicable Gambian law.
 
 This LMP does not represent a legal claim of direct compliance with California employment statutes where such statutes do not legally apply.
