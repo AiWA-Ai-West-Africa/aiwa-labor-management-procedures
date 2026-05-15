@@ -34,6 +34,12 @@ AIWA may adopt enhanced internal operational standards aligned with internationa
 
 These references describe voluntary internal standards only and do not assert legal applicability of non-Gambian employment statutes unless legally required.
 
+### 1.2 Relationship to AIWA Policy Framework
+
+This LMP should be read together with approved AIWA policy and governance framework documents.
+
+The LMP remains the primary workforce-conduct and labor-safeguard handbook. Broader technical, classification, and rights-processing procedures are governed by their respective policy instruments unless a labor-protection rule in this LMP imposes a stricter requirement consistent with applicable law.
+
 ## 2. Institutional Roles
 
 The following roles apply for this LMP:
