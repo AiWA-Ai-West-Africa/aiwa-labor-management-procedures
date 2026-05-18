@@ -804,7 +804,11 @@ All users must:
 
 Prohibited conduct includes unauthorized system access, credential sharing, piracy, infringement, deliberate system abuse, unauthorized software installation, and intentional bypass of security controls.
 
-The company may monitor, review, preserve, and audit system activity, communications, and stored data on company-managed systems to protect operations, security, legal compliance, and organizational assets. Monitoring scope includes account usage logs, security events, and business communications on company-managed systems and company accounts. Monitoring is implemented with notice to users through written policy acknowledgments and systems-use forms (Annex 3), and in compliance with applicable Gambian law.
+The company may monitor, review, preserve, and audit system activity, communications, and stored data on company-managed systems to protect operations, security, legal compliance, and organizational assets.
+
+Monitoring scope includes account usage logs, security events, and business communications on company-managed systems and company accounts.
+
+Monitoring is implemented with notice to users through written policy acknowledgments and systems-use forms (Annex 3), and in compliance with applicable Gambian law.
 
 ---
 
@@ -822,7 +826,7 @@ Communication expectations apply across calls, SMS, WhatsApp, Signal, Telegram, 
 - comply with records retention and reporting requirements; and
 - cooperate with lawful internal records requests.
 
-Unauthorized recording, photography, or distribution is prohibited unless expressly authorized in writing by AIWA leadership, the Executive Director, or a designated HR/Compliance officer with written delegation on file. This prohibition includes:
+Unauthorized recording, photography, or distribution is prohibited unless expressly authorized in writing by AIWA leadership, the Executive Director, or an HR/Compliance officer designated in writing by the Executive Director. This prohibition includes:
 
 - internal meetings and internal communications;
 - facilities and physical workspaces;
@@ -876,7 +880,9 @@ Employees, managers, contractors, and representatives must maintain professional
 
 Personnel participating in meetings, community engagements, school activities, events, and official external interactions must wear attire appropriate to the setting and safety requirements.
 
-Clothing, symbols, or messages that are offensive, discriminatory, threatening, sexually explicit, or likely to undermine professional representation are prohibited, including hate speech, targeted harassment language, explicit sexual images or wording, and symbols that promote violence. Site-specific attire and safety requirements for schools, community events, and field operations are issued in writing by management and are mandatory where assigned.
+Clothing, symbols, or messages that are offensive, discriminatory, threatening, sexually explicit, or likely to undermine professional representation are prohibited, including hate speech, targeted harassment language, explicit sexual images or wording, and symbols that promote violence.
+
+Site-specific attire and safety requirements for schools, community events, and field operations are issued in writing by management and are mandatory where assigned.
 
 ---
 
