@@ -120,6 +120,10 @@ Required controls include:
 - immediate reporting of safeguarding concerns; and
 - escalation pathways for urgent protective action.
 
+AIWA must maintain a written safeguarding appointment record naming the current Designated Safeguarding Lead (DSL) and at least one safeguarding alternate. The Managing Director is responsible for ensuring that these appointments are made, kept current, and reviewed whenever safeguarding responsibilities change.
+
+AIWA must publish the current DSL and safeguarding alternate contact details, together with the official safeguarding reporting email address and phone number, in staff onboarding materials, internal workforce communications, and any youth-facing project or activity briefing materials where safeguarding concerns may arise. These published contact points are the designated safeguarding channel for immediate reporting under this LMP.
+
 Any suspected exploitation, abuse, or child endangerment must be escalated immediately through the designated safeguarding channel to the Designated Safeguarding Lead (DSL).
 
 Reports must be made as soon as possible using the safeguarding reporting email and phone channel designated by AIWA for workforce and participant protection matters. If the DSL is unavailable, cannot be reached promptly, or is the subject of the concern, the report must be escalated without delay to the Managing Director or other board-designated safeguarding alternate.
