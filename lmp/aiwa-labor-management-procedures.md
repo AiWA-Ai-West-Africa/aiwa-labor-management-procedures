@@ -115,7 +115,7 @@ Safeguarding obligations apply to all covered persons and override operational c
 Required controls include:
 - role-appropriate safeguarding training;
 - child protection protocols for youth-facing activity;
-- documented parental/guardian consent and, where applicable, school or institutional authorization before involving minors in governed activities;
+- documented parental/guardian consent and, where applicable, school or institutional authorization (for example, where activity is conducted through a school programme, during school-supervised time, on school-managed premises, or under a formal educational partnership) before involving minors in governed activities;
 - boundaries on unsupervised or unauthorized contact;
 - immediate reporting of safeguarding concerns; and
 - escalation pathways for urgent protective action.
@@ -185,7 +185,7 @@ Authorized users must protect passwords, credentials, and devices and must repor
 Required digital-security practices include credential confidentiality, multi-factor authentication where enabled, prompt reporting of suspected phishing or account compromise, and secure handling of approved devices and remote-work access channels.
 
 Organizational systems, devices, accounts, and communications resources may be monitored, logged, reviewed, secured, or audited for lawful operational, safeguarding, governance, security, and compliance purposes consistent with applicable law.
-Monitoring and audit controls must preserve legally protected confidential reporting and whistleblower safeguards, and access to monitoring records must be restricted to authorized reviewers with documented need-to-know.
+Monitoring and audit controls must preserve legally protected confidential reporting and whistleblower safeguards, and access to monitoring records must be restricted to authorized reviewers approved by designated compliance or governance authority based on documented need-to-know determinations recorded under approved access-control procedures.
 
 Public statements and social media activity must not disclose confidential information, misrepresent AIWA decisions, or publish restricted materials without authorization.
 Public media engagement or policy representation on behalf of AIWA requires prior written authorization from designated management or governance authority.
