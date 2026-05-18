@@ -664,7 +664,7 @@ AIWA reserves the right to pursue legal remedies under Gambian law for serious v
 
 ## 19. Core Values
 
-The following Core Values are mandatory standards for all employees, managers, contractors, consultants, vendors, partners, and representatives of the company:
+The following Core Values are mandatory standards for all employees, managers, contractors, consultants, vendors, partners, and representatives of AIWA (the company):
 
 - Constant Never-Ending Improvement
 - Honesty Without Compromise
@@ -699,7 +699,7 @@ Conduct inconsistent with these Core Values may result in:
 - termination of contracts; or
 - termination of vendor or business relationships.
 
-The company generally follows progressive discipline:
+The company generally follows progressive discipline (see Section 37):
 
 - Verbal Warning
 - Written Warning
@@ -736,6 +736,8 @@ Managers and supervisors must:
 - maintain operational continuity, staffing control, and task execution discipline;
 - escalate material risks, policy violations, and legal concerns without delay; and
 - document performance and conduct actions accurately.
+
+Management retaliation prohibitions are enforced under Section 22.
 
 Failure by a manager or supervisor to enforce policy, report serious misconduct, or maintain professional leadership standards is itself a disciplinary matter.
 
@@ -802,7 +804,7 @@ All users must:
 
 Prohibited conduct includes unauthorized system access, credential sharing, piracy, infringement, deliberate system abuse, unauthorized software installation, and intentional bypass of security controls.
 
-The company may monitor, review, preserve, and audit system activity, communications, and stored data on company-managed systems to protect operations, security, legal compliance, and organizational assets.
+The company may monitor, review, preserve, and audit system activity, communications, and stored data on company-managed systems to protect operations, security, legal compliance, and organizational assets. Monitoring is implemented with notice to users through company policy controls and in compliance with applicable Gambian law.
 
 ---
 
@@ -820,7 +822,7 @@ Communication expectations apply across calls, SMS, WhatsApp, Signal, Telegram, 
 - comply with records retention and reporting requirements; and
 - cooperate with lawful internal records requests.
 
-Unauthorized recording, photography, or distribution of internal meetings, facilities, records, systems, personnel data, programme data, or participant data is prohibited unless expressly authorized.
+Unauthorized recording, photography, or distribution of internal meetings, facilities, records, systems, personnel data, programme data, or participant data is prohibited unless expressly authorized in writing by AIWA leadership or a formally delegated authority.
 
 All company devices, SIM cards, and communication assets must be returned at separation or upon request.
 
@@ -866,7 +868,7 @@ Employees, managers, contractors, and representatives must maintain professional
 
 Personnel participating in meetings, community engagements, school activities, events, and official external interactions must wear attire appropriate to the setting and safety requirements.
 
-Clothing, symbols, or messages that are offensive, discriminatory, threatening, or inconsistent with company standards are prohibited.
+Clothing, symbols, or messages that are offensive, discriminatory, threatening, sexually explicit, or likely to undermine professional representation are prohibited.
 
 ---
 
@@ -1012,7 +1014,19 @@ The company generally applies progressive discipline:
 - Written Warning
 - Termination
 
-The company may skip any step and proceed to immediate termination or immediate contract/vendor termination based on severity, dishonesty, repeated conduct, operational risk, harassment, breach of trust, confidentiality violations, misconduct, reputational harm, safety concerns, or damage to the company.
+The company may skip any step and proceed to immediate termination or immediate contract/vendor termination based on:
+
+- severity;
+- dishonesty;
+- repeated conduct;
+- operational risk;
+- harassment;
+- breach of trust;
+- confidentiality violations;
+- misconduct;
+- reputational harm;
+- safety concerns; or
+- damage to the company.
 
 All disciplinary actions are documented in company records.
 
