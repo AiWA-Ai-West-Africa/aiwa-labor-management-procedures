@@ -36,7 +36,7 @@ These references describe voluntary internal standards only and do not assert le
 
 ### 1.2 Relationship to AIWA Policy Framework
 
-This LMP should be read together with the current approved AIWA Policy and governance framework documents, including subsequent approved revisions.
+This LMP should be read together with the current approved AIWA Policy (v2026.05.17-63) and any subsequent approved revisions, together with other formally approved governance framework documents issued through AIWA-designated policy publication channels.
 
 The LMP remains the primary workforce-conduct and labor-safeguard handbook. Broader technical, classification, and rights-processing procedures are governed by their respective policy instruments unless a labor-protection rule in this LMP imposes a stricter requirement consistent with applicable law.
 
@@ -57,7 +57,9 @@ This LMP preserves role boundaries and does not transfer ownership or legal righ
 
 ## 3. Worker and Participant Classifications
 
-The following categories are distinct and must not be collapsed:
+The classification framework in this Section distinguishes between:
+- legal engagement-status categories (Sections 3.1-3.4); and
+- functional or participation designations (Sections 3.5-3.8), which may coexist with an engagement-status category unless restricted by law or contract.
 
 Classification is determined by legal and contractual reality, not by label alone. No category in this Section is automatically converted into employment status by policy wording.
 
@@ -74,16 +76,16 @@ Trained and authorized facilitators engaged to support programme delivery, moder
 Non-compensated support participants with defined roles and supervision limits. Volunteer status does not imply employment unless legally required.
 
 ### 3.5 Governed Contributors
-Rights-holding contributors, including creative, linguistic, technical, and knowledge participants, who provide contributor-authorized materials under governance terms.
+Rights-holding contributors, including creative, linguistic, technical, and knowledge participants, who provide contributor-authorized materials under governance terms. This designation does not, by itself, determine employment status.
 
 ### 3.6 Student Governed Contributors
-Educational programme contributors participating in learning-linked creation or submission processes. Student participation does not transfer ownership rights.
+Educational programme contributors participating in learning-linked creation or submission processes. Student participation does not transfer ownership rights and does not, by itself, determine employment status.
 
 ### 3.7 Governance Participants
 Persons serving in oversight, review, approval, ethics, or governance deliberation roles. Governance participation does not create staff status by default.
 
 ### 3.8 Technical Operators
-Authorized personnel responsible for infrastructure operations, system administration, and governance control execution.
+Authorized personnel responsible for infrastructure operations, system administration, and governance control execution. This is a functional assignment and may exist alongside an applicable engagement-status category.
 
 ## 4. Equal Opportunity and Non-Discrimination
 
@@ -113,6 +115,7 @@ Safeguarding obligations apply to all covered persons and override operational c
 Required controls include:
 - role-appropriate safeguarding training;
 - child protection protocols for youth-facing activity;
+- documented parental/guardian consent and, where applicable, school or institutional authorization before involving minors in governed activities;
 - boundaries on unsupervised or unauthorized contact;
 - immediate reporting of safeguarding concerns; and
 - escalation pathways for urgent protective action.
@@ -163,7 +166,7 @@ Data stewardship responsibilities include:
 - controlled sharing under approved permissions; and
 - incident reporting for suspected breach or misuse.
 
-Confidentiality obligations continue after role completion where contract or policy so provides.
+Confidentiality obligations continue after role completion and survive termination, contract expiry, or role reassignment.
 
 ## 9. Authorized Technology and AI Use
 
@@ -182,6 +185,7 @@ Authorized users must protect passwords, credentials, and devices and must repor
 Required digital-security practices include credential confidentiality, multi-factor authentication where enabled, prompt reporting of suspected phishing or account compromise, and secure handling of approved devices and remote-work access channels.
 
 Organizational systems, devices, accounts, and communications resources may be monitored, logged, reviewed, secured, or audited for lawful operational, safeguarding, governance, security, and compliance purposes consistent with applicable law.
+Monitoring and audit controls must preserve legally protected confidential reporting and whistleblower safeguards, and access to monitoring records must be restricted to authorized reviewers with documented need-to-know.
 
 Public statements and social media activity must not disclose confidential information, misrepresent AIWA decisions, or publish restricted materials without authorization.
 Public media engagement or policy representation on behalf of AIWA requires prior written authorization from designated management or governance authority.
@@ -202,7 +206,12 @@ Undisclosed conflicts may result in corrective or disciplinary action.
 
 AIWA provides reporting channels for labor concerns, misconduct, safeguarding incidents, governance violations, retaliation, and confidentiality breaches.
 
-Reports may be submitted through designated internal pathways, including confidential channels where available. Reporting in good faith is protected.
+Reports may be submitted through designated channels, including:
+- the Designated Safeguarding Lead (DSL) channel for safeguarding matters;
+- designated workforce reporting email/phone channels for labor, misconduct, retaliation, confidentiality, and governance concerns; and
+- escalation to the Managing Director or board-designated alternate when the primary channel is unavailable, conflicted, or unresponsive.
+
+Confidential channels must be made available where practicable, and good-faith reporting is protected.
 
 Reports and complaints submitted under this Section follow basic procedural fairness:
 - acknowledgement of receipt within 5 calendar days where practicable;
@@ -248,6 +257,12 @@ Compensation practices must comply with applicable Gambian labor law, contractua
 ## 14. Records and Information Retention
 
 Workforce records, grievance records, incident files, and safeguarding records must be maintained according to applicable legal requirements and approved retention schedules.
+
+Unless a stricter legal requirement or approved retention schedule applies, the following minimum retention periods apply:
+- workforce and personnel records: 7 years after separation or contract end;
+- grievance, disciplinary, and retaliation case records: 7 years after case closure;
+- safeguarding and child-protection records: until the subject reaches age 25 and at least 7 years after case closure, whichever is later; and
+- incident, security, and provenance-breach records: 7 years after closure.
 
 Records must be accurate, access-controlled, and preserved against tampering, unauthorized deletion, or retaliatory destruction.
 
@@ -308,7 +323,7 @@ Role-appropriate training is mandatory for applicable personnel and participants
 - anti-retaliation and reporting protections; and
 - authorized technology and AI-use responsibilities.
 
-Training completion and authorization status should be recorded for accountability.
+Training completion and authorization status must be recorded for accountability.
 
 ## 19. Incident Reporting and Escalation
 
@@ -341,7 +356,7 @@ Review should consider:
 
 Amendments require designated approval authority and documented version control.
 
-## Legal Position and Applicable Standards
+## 21. Legal Position and Applicable Standards
 
 Employment relationships are governed by applicable Gambian labor laws, including laws relating to wages, working conditions, termination, workplace protections, and dispute resolution.
 
