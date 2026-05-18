@@ -117,6 +117,7 @@ Required controls include:
 - child protection protocols for youth-facing activity;
 - documented parental/guardian consent and, where applicable, school or institutional authorization (for example, where activity is conducted through a school programme, during school-supervised time, on school-managed premises, or under a formal educational partnership) before involving minors in governed activities;
 - boundaries on unsupervised or unauthorized contact;
+- documented parental/guardian authorization, school or institutional authorization where applicable, and informed consent before involving children/students in youth-facing activity or collecting, using, or publishing their contributions or materials;
 - immediate reporting of safeguarding concerns; and
 - escalation pathways for urgent protective action.
 
