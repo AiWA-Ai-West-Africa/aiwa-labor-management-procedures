@@ -664,7 +664,7 @@ AIWA reserves the right to pursue legal remedies under Gambian law for serious v
 
 ## 19. Core Values
 
-The following Core Values are mandatory standards for all employees, managers, contractors, consultants, vendors, partners, and representatives of AIWA (the company):
+The following Core Values are mandatory standards for all employees, managers, contractors, consultants, vendors, partners, and representatives of AIWA:
 
 - Constant Never-Ending Improvement
 - Honesty Without Compromise
@@ -769,7 +769,7 @@ All personnel, managers, contractors, and vendors must:
 - preserve confidentiality during investigations to the extent required by law and policy; and
 - refrain from retaliation against any person who reports concerns or participates in an investigation.
 
-Serious harassment, threats, or retaliatory conduct may result in immediate removal from duties, suspension, contract termination, or employment termination.
+Serious harassment, threats, or retaliatory conduct — including retaliation by managers or supervisors — may result in immediate removal from duties, suspension, contract termination, or employment termination.
 
 ---
 
@@ -822,7 +822,13 @@ Communication expectations apply across calls, SMS, WhatsApp, Signal, Telegram, 
 - comply with records retention and reporting requirements; and
 - cooperate with lawful internal records requests.
 
-Unauthorized recording, photography, or distribution of internal meetings, facilities, records, systems, personnel data, programme data, or participant data is prohibited unless expressly authorized in writing by AIWA leadership or a formally delegated authority.
+Unauthorized recording, photography, or distribution is prohibited unless expressly authorized in writing by AIWA leadership or a formally delegated authority. This prohibition includes:
+
+- internal meetings and internal communications;
+- facilities and physical workspaces;
+- records, systems, and operational documents;
+- personnel, programme, participant, customer, or contributor data; and
+- photos, audio, video, screenshots, or copied message content.
 
 All company devices, SIM cards, and communication assets must be returned at separation or upon request.
 
