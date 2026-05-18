@@ -804,7 +804,7 @@ All users must:
 
 Prohibited conduct includes unauthorized system access, credential sharing, piracy, infringement, deliberate system abuse, unauthorized software installation, and intentional bypass of security controls.
 
-The company may monitor, review, preserve, and audit system activity, communications, and stored data on company-managed systems to protect operations, security, legal compliance, and organizational assets. Monitoring is implemented with notice to users through written policy acknowledgments and systems-use forms, and in compliance with applicable Gambian law.
+The company may monitor, review, preserve, and audit system activity, communications, and stored data on company-managed systems to protect operations, security, legal compliance, and organizational assets. Monitoring scope includes account usage logs, security events, and business communications on company-managed systems and company accounts. Monitoring is implemented with notice to users through written policy acknowledgments and systems-use forms (Annex 3), and in compliance with applicable Gambian law.
 
 ---
 
@@ -829,6 +829,8 @@ Unauthorized recording, photography, or distribution is prohibited unless expres
 - records, systems, and operational documents;
 - personnel, programme, participant, customer, or contributor data; and
 - photos, audio, video, screenshots, or copied message content.
+
+Nothing in this section removes or limits lawful reporting or evidence-preservation rights available under applicable Gambian law.
 
 All company devices, SIM cards, and communication assets must be returned at separation or upon request.
 
@@ -874,7 +876,7 @@ Employees, managers, contractors, and representatives must maintain professional
 
 Personnel participating in meetings, community engagements, school activities, events, and official external interactions must wear attire appropriate to the setting and safety requirements.
 
-Clothing, symbols, or messages that are offensive, discriminatory, threatening, sexually explicit, or likely to undermine professional representation are prohibited, including hate speech, targeted harassment language, explicit sexual images or wording, and symbols that promote violence.
+Clothing, symbols, or messages that are offensive, discriminatory, threatening, sexually explicit, or likely to undermine professional representation are prohibited, including hate speech, targeted harassment language, explicit sexual images or wording, and symbols that promote violence. Site-specific attire and safety requirements for schools, community events, and field operations are issued in writing by management and are mandatory where assigned.
 
 ---
 
