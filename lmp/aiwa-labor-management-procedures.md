@@ -977,6 +977,280 @@ Supervisors who fail to report conduct violations, who retaliate against reporte
 
 ---
 
+## 29. School Access Health & Safeguarding Compliance Policy
+
+### 29.1 Purpose
+
+This section establishes the health, safety, safeguarding, and professional standards required for all employees, contractors, consultants, volunteers, interns, and temporary personnel assigned to schools or school-linked activities.
+
+The purpose is to:
+
+- protect children and vulnerable persons;
+- comply with school safeguarding expectations;
+- maintain safe educational environments;
+- support public-health standards; and
+- reduce legal and operational risk.
+
+### 29.2 Scope
+
+This section applies to:
+
+- all personnel assigned to schools;
+- staff visiting school premises;
+- subcontractors engaged in school-related work; and
+- volunteers and interns working with minors.
+
+It applies to full-time, part-time, temporary, remote-with-in-person interaction, and project-based work.
+
+### 29.3 General Principles
+
+All personnel working in schools must:
+
+- act in the best interests of children;
+- comply with host-school rules and safeguarding procedures;
+- maintain professional conduct;
+- observe reasonable health and safety requirements; and
+- avoid conduct that may endanger students or staff.
+
+### 29.4 Health & Fitness Requirements
+
+Personnel assigned to schools may be required to meet the following requirements where lawful and reasonable.
+
+#### 29.4.1 Medical Fitness
+
+- provide confirmation of fitness to perform assigned duties safely in a school environment;
+- provide a medical fitness certificate where required;
+- confirm absence of contagious illness where required; and
+- provide return-to-work clearance after serious illness where required.
+
+#### 29.4.2 Communicable Diseases
+
+Personnel must:
+
+- not attend school premises while knowingly suffering from a contagious illness that may endanger others;
+- comply with public-health guidance issued by competent authorities; and
+- report any condition requiring temporary workplace restrictions where legally appropriate.
+
+#### 29.4.3 Vaccination & Public Health Measures
+
+Where required by law, public-health directives, or host-school policy, personnel may be required to comply with reasonable school-entry measures including:
+
+- vaccination requirements;
+- testing requirements;
+- masking;
+- hygiene procedures; and
+- temporary health screening.
+
+AIWA will consider lawful exemptions and reasonable accommodations including:
+
+- medical exemptions;
+- disability-related accommodations;
+- pregnancy-related considerations; and
+- sincerely held religious objections where applicable.
+
+No employee will be physically compelled to undergo medical treatment.
+
+### 29.5 Safeguarding & Child Protection
+
+All personnel must:
+
+- protect children from abuse, exploitation, neglect, and inappropriate conduct;
+- comply with safeguarding procedures of AIWA and host schools; and
+- immediately report safeguarding concerns through designated channels.
+
+Personnel may be required to complete safeguarding training, sign a code of conduct, and undergo background or police clearance checks.
+
+### 29.6 Professional Conduct Around Students
+
+Personnel must:
+
+- maintain appropriate boundaries with students;
+- avoid inappropriate physical or verbal conduct;
+- refrain from harassment, discrimination, bullying, or exploitation; and
+- use respectful and professional language at all times.
+
+Unauthorized photographing, recording, private communication with students, or social-media interaction with minors is prohibited unless expressly authorized.
+
+### 29.7 Confidentiality & Medical Information
+
+Medical or personal information collected under this section must:
+
+- be handled confidentially;
+- be used only for legitimate workplace or safeguarding purposes; and
+- be accessed only by authorized personnel.
+
+Information is processed in accordance with applicable Gambian law and AIWA privacy standards.
+
+### 29.8 Non-Compliance
+
+Failure to comply with lawful and reasonable school-access requirements may result in:
+
+- reassignment;
+- restricted school access;
+- temporary suspension from school duties; and
+- disciplinary action where appropriate.
+
+Any action taken must follow fair procedure, consider reasonable accommodation, and be proportionate to the risk involved.
+
+### 29.9 Relationship With Host School Policies
+
+Personnel assigned to a school must comply with host-school safeguarding rules, visitor protocols, child-protection standards, and health-entry procedures, provided those requirements are lawful and reasonably related to school safety.
+
+### 29.10 Equality & Non-Discrimination
+
+This section is applied fairly and consistently. AIWA will not unlawfully discriminate on the basis of disability, religion, sex, pregnancy, health status, or other protected characteristics. Reasonable accommodation is considered where feasible and consistent with child safety obligations.
+
+### 29.11 Review & Amendment
+
+This section may be updated to reflect changes in Gambian law, Ministry guidance, public-health requirements, safeguarding standards, and operational needs.
+
+---
+
+## 30. Child Safeguarding, Vetting & School Access Policy
+
+### 30.1 Purpose
+
+This section establishes mandatory safeguarding, screening, vetting, conduct, and reporting standards for all personnel who work with or around children through AIWA programmes, services, partnerships, or school-based activities.
+
+AIWA is committed to:
+
+- protecting children from harm;
+- maintaining safe educational environments;
+- preventing abuse, exploitation, neglect, harassment, and misconduct;
+- ensuring appropriate recruitment and supervision of personnel; and
+- complying with applicable Gambian law and school safeguarding requirements.
+
+### 30.2 Scope
+
+This section applies to all employees and all other personnel acting on behalf of AIWA, including consultants, contractors, volunteers, interns, facilitators, drivers, support staff, temporary workers, and partner personnel assigned to schools or child-facing activities.
+
+It applies whether interaction with children is direct, indirect, physical, online, supervised, or unsupervised.
+
+### 30.3 Definitions
+
+- **Child.** Any person under eighteen (18) years of age.
+- **Safeguarding.** Measures to protect children from abuse, neglect, exploitation, violence, harassment, inappropriate conduct, and unsafe environments.
+- **Personnel.** Any individual acting on behalf of AIWA.
+
+### 30.4 Safeguarding Principles
+
+AIWA shall:
+
+- prioritize the best interests of children;
+- maintain zero tolerance for child abuse or exploitation;
+- promote dignity, respect, and safety;
+- require professional boundaries at all times; and
+- respond promptly to safeguarding concerns.
+
+### 30.5 Recruitment & Vetting Standards
+
+No personnel may be assigned to work in schools or with children until required screening is completed.
+
+#### 30.5.1 Mandatory Pre-Engagement Checks
+
+Before engagement, AIWA requires the following checks as applicable to role and legal context:
+
+- **Identity Verification.** Valid government-issued identification, accurate personal details, and proof of address where appropriate.
+- **CV & Employment Verification.** Review of employment history, assessment of unexplained gaps, and verification of previous roles where possible.
+- **Reference Checks.** At least two professional references, including questions on conduct around children, professionalism, disciplinary concerns, and safeguarding suitability.
+- **Criminal Background Screening.** Police Character Certificate, criminal background declaration, and foreign police clearance where relevant.
+- **Qualification Verification.** Verification of academic and professional qualifications where applicable.
+- **Safeguarding Declaration.** Signed declaration confirming no engagement in child abuse or exploitation, commitment to safeguarding obligations, and commitment to immediate reporting.
+
+Failure to disclose relevant criminal matters may result in disqualification, restricted duties, or disciplinary action.
+
+#### 30.5.2 Ongoing Employee Screening & Hiring Compliance
+
+For all employees, AIWA integrates safeguarding into hiring and ongoing employment practices by:
+
+- applying baseline identity, reference, and role-risk screening before appointment;
+- requiring enhanced screening for child-facing, school-facing, financial-control, or sensitive-access roles;
+- prohibiting assignment to school duties until all required checks are complete and documented;
+- requiring disclosure of any new criminal charges, investigations, or safeguarding concerns during employment; and
+- conducting periodic re-screening for designated high-risk roles.
+
+### 30.6 Health & School Access Requirements
+
+Personnel assigned to schools may be required to comply with school entry protocols, public-health requirements, communicable disease precautions, medical fitness standards, and vaccination or testing requirements where lawfully imposed. Reasonable accommodations may be considered where appropriate.
+
+### 30.7 Code of Conduct Around Children
+
+Personnel must:
+
+- behave professionally and respectfully;
+- maintain appropriate boundaries;
+- avoid favoritism or grooming behavior;
+- avoid humiliating, threatening, or degrading conduct;
+- avoid physical punishment;
+- avoid inappropriate touching; and
+- avoid private meetings in isolated settings without authorization.
+
+Personnel must not:
+
+- engage in sexual conduct or inappropriate communication with minors;
+- exchange personal romantic or sexual messages;
+- share inappropriate media;
+- transport children alone without authorization; or
+- use alcohol or drugs while supervising children.
+
+### 30.8 Digital Safeguarding
+
+Personnel must use approved communication channels, protect children’s personal information, avoid unauthorized direct messaging with students, and avoid sharing images of children without consent.
+
+Recording or photographing children requires organizational authorization and, where applicable, parental or school consent.
+
+### 30.9 Supervision & Access Control
+
+AIWA shall supervise personnel appropriately, restrict unauthorized access to children, maintain visitor controls where applicable, and ensure contractors and visitors are identifiable. One-on-one unsupervised interaction with minors must be minimized where feasible.
+
+### 30.10 Mandatory Reporting Obligations
+
+Personnel must immediately report suspected abuse, exploitation, grooming, harassment, neglect, unsafe conduct, and safeguarding policy violations involving children.
+
+Reports may be made to designated safeguarding officers, management, school authorities, and law enforcement where necessary. Failure to report safeguarding concerns may itself constitute misconduct.
+
+### 30.11 Safeguarding Response Procedure
+
+Upon receiving a safeguarding concern, AIWA shall:
+
+1. ensure immediate child safety;
+2. document the concern confidentially;
+3. notify designated safeguarding personnel;
+4. assess urgency and risk;
+5. refer to authorities where appropriate;
+6. cooperate with investigations; and
+7. take interim protective measures where necessary.
+
+Confidentiality is maintained as far as reasonably possible.
+
+### 30.12 Confidentiality & Data Protection
+
+Safeguarding and vetting information must be securely stored, accessed only by authorized persons, and used solely for legitimate safeguarding and employment purposes. Sensitive personal information must be treated confidentially.
+
+### 30.13 Training Requirements
+
+Personnel working with children must complete safeguarding orientation covering child protection principles, abuse indicators, reporting obligations, professional boundaries, digital safeguarding, and school conduct standards. Refresher training may be conducted periodically.
+
+### 30.14 Non-Compliance & Disciplinary Action
+
+Violations of this section may result in restricted school access, reassignment, suspension, termination, and referral to law enforcement or other authorities. Disciplinary measures follow fair procedures.
+
+### 30.15 Annual Review & Re-Screening
+
+AIWA may conduct periodic safeguarding reviews, policy updates, background re-checks, and training renewals. Personnel must disclose new criminal charges, investigations, or safeguarding concerns arising during engagement.
+
+### 30.16 Operational Procedures
+
+AIWA maintains supporting procedures for:
+
+- vetting checklists before deployment;
+- reference check documentation;
+- school access authorization and assignment logs;
+- safeguarding incident reporting and escalation; and
+- visitor and contractor school-access controls.
+
+---
+
 ## Annexes
 
 - **Annex 1** — Employee/Contractor Code of Conduct Acknowledgment Form
@@ -994,6 +1268,12 @@ Supervisors who fail to report conduct violations, who retaliate against reporte
 - **Annex 13** — Expense Reimbursement Request Form
 - **Annex 14** — SPARXSTAR Access Request & Revocation Form
 - **Annex 15** — Training Completion Record Template
+- **Annex 16** — Staff Safeguarding Declaration Form
+- **Annex 17** — Reference Check Form
+- **Annex 18** — School Access Authorization Form
+- **Annex 19** — Parent Media Consent Form
+- **Annex 20** — Digital Communications Policy
+- **Annex 21** — Safeguarding Investigation Procedure
 
 ---
 
