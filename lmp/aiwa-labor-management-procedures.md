@@ -36,7 +36,9 @@ These references describe voluntary internal standards only and do not assert le
 
 ### 1.2 Relationship to AIWA Policy Framework
 
-This LMP should be read together with the current approved AIWA Policy (v2026.05.17-63) and any subsequent approved revisions, together with other formally approved governance framework documents issued through AIWA-designated policy publication channels.
+This LMP should be read together with the current approved AIWA Policy (v2026.05.17-63) and any subsequently approved revisions, together with other formally approved AIWA governance framework documents issued through AIWA's designated policy publication channels. Applicable governance instruments incorporated by reference include AIWA's safeguarding, data and provenance, acceptable use, and rights-administration policies as approved and published from time to time.
+
+The current effective version of each incorporated document is the latest approved revision published through AIWA's designated policy publication channels. Where a referenced governance instrument has not yet been published separately, the relevant requirements in AIWA Policy (v2026.05.17-63) apply until a successor instrument is approved and published.
 
 The LMP remains the primary workforce-conduct and labor-safeguard handbook. Broader technical, classification, and rights-processing procedures are governed by their respective policy instruments unless a labor-protection rule in this LMP imposes a stricter requirement consistent with applicable law.
 
