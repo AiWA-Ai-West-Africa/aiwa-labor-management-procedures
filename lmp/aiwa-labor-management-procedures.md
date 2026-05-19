@@ -194,7 +194,7 @@ Authorized users must protect passwords, credentials, and devices and must repor
 
 Required digital-security practices include credential confidentiality, multi-factor authentication where enabled, prompt reporting of suspected phishing or account compromise, and secure handling of approved devices and remote-work access channels.
 
-Organizational systems, devices, accounts, and communications resources may be monitored, logged, reviewed, secured, or audited for lawful operational, safeguarding, governance, security, and compliance purposes consistent with applicable law.
+Organizational systems, devices, accounts, and communications resources may be monitored, logged, reviewed, secured, or audited for lawful operational, safeguarding, governance, security, and compliance purposes consistent with applicable law; the content of designated confidential reporting and whistleblower channels must not be subject to routine content monitoring or logging and must be handled only in accordance with the confidentiality protections applicable to those reports.
 Monitoring and audit controls must preserve legally protected confidential reporting and whistleblower safeguards, and access to monitoring records must be restricted to authorized reviewers approved by designated compliance or governance authority based on documented need-to-know determinations recorded under approved access-control procedures.
 
 Public statements and social media activity must not disclose confidential information, misrepresent AIWA decisions, or publish restricted materials without authorization.
