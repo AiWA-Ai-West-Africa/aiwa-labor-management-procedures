@@ -3,7 +3,7 @@ title: "AIWA Labor Management Procedures"
 author: "AI West Africa"
 date: "2026"
 version: "0.2 Draft"
-last_updated: "2026-05-12"
+last_updated: "2026-05-17"
 toc: true
 numbersections: true
 ---
