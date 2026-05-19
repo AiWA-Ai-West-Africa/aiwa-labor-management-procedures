@@ -89,6 +89,9 @@ Persons serving in oversight, review, approval, ethics, or governance deliberati
 ### 3.8 Technical Operators
 Authorized personnel responsible for infrastructure operations, system administration, and governance control execution. This is a functional assignment and may exist alongside an applicable engagement-status category.
 
+### 3.9 Covered Persons
+For purposes of this LMP, "covered persons" means all individuals whose conduct, duties, or participation falls within the scope of this LMP, including Employees (Section 3.1), Contractors (Section 3.2), Facilitators (Section 3.3), Volunteers (Section 3.4), Governed Contributors (Section 3.5), Student Governed Contributors (Section 3.6), Governance Participants (Section 3.7), and Technical Operators (Section 3.8). Obligations imposed on "covered persons" throughout this LMP apply across all engagement-status and functional-designation categories identified in this Section.
+
 ## 4. Equal Opportunity and Non-Discrimination
 
 AIWA and participating operational entities prohibit unlawful discrimination in recruitment, assignment, supervision, advancement, discipline, and termination decisions.
@@ -242,7 +245,7 @@ Confirmed retaliation triggers corrective action independent of the underlying c
 
 ## 13. Health, Safety, and Operational Security
 
-AIWA and relevant operators maintain practical health, safety, and operational security controls proportionate to role and context.
+AIWA and Technical Service Providers and other contracted or affiliated operational entities maintain practical health, safety, and operational security controls proportionate to role and context.
 
 Expected controls include:
 - safe work environment and emergency readiness;
