@@ -262,7 +262,12 @@ Compensation practices must comply with applicable Gambian labor law, contractua
 
 ## 14. Records and Information Retention
 
-Workforce records, grievance records, incident files, and safeguarding records must be maintained according to applicable legal requirements and approved retention schedules.
+Workforce records, grievance records, incident files, and safeguarding records must be maintained according to the following minimum retention periods, or longer where applicable law, contract, litigation hold, investigation, or safeguarding requirements require longer retention:
+
+- workforce records: 7 years after the end of employment or engagement;
+- grievance records: 7 years after final resolution and closure;
+- incident files: 7 years after final resolution and closure;
+- safeguarding records: 10 years after final resolution and closure, and longer if needed to protect affected persons or comply with mandatory reporting or legal obligations.
 
 Unless a stricter legal requirement or approved retention schedule applies, the following minimum retention periods apply:
 - workforce and personnel records: 7 years after separation or contract end;
