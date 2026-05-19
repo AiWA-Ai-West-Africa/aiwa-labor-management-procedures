@@ -201,7 +201,8 @@ All covered persons must disclose actual, potential, or perceived conflicts that
 
 Conflict controls include:
 - timely written disclosure;
-- review by designated authority;
+- review by AIWA management or governance authority designated in writing to handle conflict-of-interest matters;
+- where the designated reviewer is conflicted or unavailable, written appointment of an alternate uninvolved reviewer by AIWA management or governance authority;
 - recusal where required; and
 - documented mitigation actions.
 
