@@ -132,7 +132,7 @@ AIWA must publish the current DSL and safeguarding alternate contact details, to
 
 Any suspected exploitation, abuse, or child endangerment must be escalated immediately through the designated safeguarding channel to the Designated Safeguarding Lead (DSL).
 
-Reports must be made as soon as possible using the safeguarding reporting email and phone channel designated by AIWA for safeguarding and participant protection matters. If the DSL is unavailable, cannot be reached promptly, or is the subject of the concern, the report must be escalated without delay to the Managing Director or other board-designated safeguarding alternate.
+Reports must be made as soon as possible using the safeguarding reporting email and phone channel designated by AIWA exclusively for safeguarding and participant protection matters. If the DSL is unavailable, cannot be reached promptly, or is the subject of the concern, the report must be escalated without delay to the Managing Director or other board-designated safeguarding alternate.
 
 Where a child or other person is in immediate danger, reporters must first contact emergency services or the relevant lawful child-protection or law-enforcement authority, and then notify AIWA through the safeguarding channel as soon as it is safe to do so.
 
