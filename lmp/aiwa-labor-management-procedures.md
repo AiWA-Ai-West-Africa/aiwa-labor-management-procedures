@@ -222,6 +222,8 @@ Reports may be submitted through designated channels, including:
 - designated workforce reporting email/phone channels for labor, misconduct, retaliation, confidentiality, and governance concerns; and
 - escalation to the Managing Director or board-designated alternate when the primary channel is unavailable, conflicted, or unresponsive.
 
+The current workforce reporting email/phone channels must be authoritatively published in AIWA's staff handbook, onboarding materials, or internal contact directory. If no separate workforce reporting channel has been published, reporters may use the DSL channel for intake and routing to the appropriate non-safeguarding reviewer.
+
 Confidential channels must be made available where practicable, and good-faith reporting is protected.
 
 Reports and complaints submitted under this Section follow basic procedural fairness:
