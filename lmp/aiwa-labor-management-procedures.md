@@ -293,11 +293,11 @@ The following conduct is absolutely prohibited and constitutes a ground for imme
 All AIWA personnel have mandatory reporting obligations for safeguarding concerns:
 
 - **Immediate Reporting.** Any actual or suspected harm, abuse, or safeguarding incident involving a minor must be reported to the AIWA Safeguarding Focal Point within twenty-four (24) hours of awareness.
-- **Documentation.** Reports must be made in writing using AIWA's Incident Reporting Form (Annex 3) within forty-eight (48) hours.
+- **Documentation.** Reports must be made in writing using AIWA's Complaint and Incident Reporting Form (Annex 5) within forty-eight (48) hours.
 - **Escalation.** Serious safeguarding incidents are escalated to AIWA leadership and, where required by Gambian law, to appropriate national authorities.
 - **Mandatory Reporting.** AIWA complies with all mandatory child protection reporting obligations under Gambian law.
 - **Emergency Response.** Where a child is in immediate danger, personnel must contact emergency services first, then notify AIWA leadership.
-- **Anti-Retaliation.** No person who in good faith reports a safeguarding concern faces any adverse action. Retaliation against safeguarding reporters is itself a ground for termination (see Section 21).
+- **Anti-Retaliation.** No person who in good faith reports a safeguarding concern faces any adverse action. Retaliation against safeguarding reporters is itself a ground for termination (see Section 22).
 
 > **Safeguarding Priority Clause:** Safeguarding obligations override operational convenience. Programme timelines, resource constraints, or organizational relationships do not justify deviation from AIWA safeguarding standards.
 
@@ -505,7 +505,7 @@ AIWA provides a fair, accessible, and confidential grievance process:
 - **Documentation.** All complaints are documented in writing upon receipt. The person reporting receives written acknowledgment within five (5) business days.
 - **Mediation.** Where appropriate, AIWA offers structured mediation between parties before escalating to formal proceedings.
 - **Escalation.** Complaints that are not resolved through direct reporting or mediation are escalated to AIWA leadership. Complaints involving leadership are escalated to the Governance Board.
-- **Investigation.** Formal complaints trigger an investigation consistent with Section 27 (Investigation Procedures).
+- **Investigation.** Formal complaints trigger an investigation consistent with Section 35 (Complaints and Reporting).
 
 ### 13.2 Disciplinary Actions
 
