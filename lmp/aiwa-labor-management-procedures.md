@@ -1271,7 +1271,7 @@ AIWA maintains supporting procedures for:
 - **Annex 16** — Staff Safeguarding Declaration Form
 - **Annex 17** — Reference Check Form
 - **Annex 18** — School Access Authorization Form
-- **Annex 19** — Parent Media Consent Form
+- **Annex 19** — Parental Media Consent Form
 - **Annex 20** — Digital Communications Policy
 - **Annex 21** — Safeguarding Investigation Procedure
 
