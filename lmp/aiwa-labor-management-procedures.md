@@ -46,7 +46,7 @@ This document — the AI West Africa Labor Management Procedures (AIWA-DOC-LM-01
 - compensation handling; and
 - labor dispute escalation.
 
-These procedures apply across AIWA programmes and SPARXSTAR-supported operations in Busumbala, The Gambia, and any field or cross-border extensions thereof.
+These procedures apply across AIWA programmes and vendor-supported technical operations in Busumbala, The Gambia, and any field or cross-border extensions thereof.
 
 ### 1.2 Governance Purpose
 
@@ -58,8 +58,8 @@ This document establishes:
 - robust youth safeguarding obligations; and
 - clear role separation between:
   - AIWA as programme operator and employer of record;
-  - SPARXSTAR as technical infrastructure;
-  - Starisian Technologies as technical service provider;
+  - third-party technical infrastructure providers;
+  - third-party technical service providers;
   - partner schools and educational institutions; and
   - independent contributors, cultural advisors, and community representatives.
 
@@ -73,8 +73,8 @@ AIWA operates at the intersection of cultural heritage preservation, AI developm
 
 This alignment is adopted because:
 
-- SPARXSTAR infrastructure is developed and maintained in California;
-- Starisian Technologies personnel may interact with AIWA programmes;
+- third-party technical infrastructure may be developed and maintained outside The Gambia;
+- external technical personnel may interact with AIWA programmes;
 - cross-border technical operations exist; and
 - future international partnerships will expect mature compliance practices.
 
@@ -146,25 +146,25 @@ AIWA — a Gambian-owned and Gambian-grown company headquartered in Busumbala, T
 - coordination of contributors and cultural representatives; and
 - compliance with the Labour Act 2007 (The Gambia) and all applicable Gambian legal obligations.
 
-### 3.2 SPARXSTAR Relationship
+### 3.2 Third-Party Technical Platform Relationship
 
-SPARXSTAR is technical infrastructure used by AIWA to support programme operations, data management, governance workflows, and platform development. The following limitations apply:
+AIWA may use third-party technical platforms to support programme operations, data management, governance workflows, and platform development. The following limitations apply:
 
-- Use of SPARXSTAR does **not** create employment between contributors or AIWA personnel and Starisian Technologies.
-- SPARXSTAR access does **not** transfer labor authority or workforce governance to Starisian Technologies.
-- SPARXSTAR access does **not** alter contributor ownership rights or cultural governance restrictions.
-- Technical access to SPARXSTAR is governed by AIWA access control policies (see Section 9.3).
+- Use of third-party technical platforms does **not** create employment between contributors or AIWA personnel and platform vendors.
+- Access to third-party technical platforms does **not** transfer labor authority or workforce governance to vendors.
+- Access to third-party technical platforms does **not** alter contributor ownership rights or cultural governance restrictions.
+- Technical platform access is governed by AIWA access control policies (see Section 9.3).
 
-### 3.3 Starisian Technologies Role
+### 3.3 Third-Party Technical Service Provider Role
 
-Starisian Technologies may provide:
+Approved third-party technical service providers may provide:
 
 - technical support services;
 - infrastructure maintenance;
 - engineering consultation; and
 - platform development services.
 
-Starisian personnel engaged for these purposes are **not** automatically AIWA personnel. Their engagement is governed by specific contractor agreements subject to the cross-border provisions of this document (see Section 16.2). They are subject to AIWA's access control, confidentiality, and conduct standards while performing work on AIWA systems or programmes.
+External technical personnel engaged for these purposes are **not** automatically AIWA personnel. Their engagement is governed by specific contractor agreements subject to the cross-border provisions of this document (see Section 16.2). They are subject to AIWA's access control, confidentiality, and conduct standards while performing work on AIWA systems or programmes.
 
 ---
 
@@ -323,7 +323,7 @@ AIWA applies the following payroll procedures:
 - **Payment Schedules.** Employee salaries are paid on a defined schedule, consistent with Gambian law. Contractor fees are paid upon completion of defined deliverables or at intervals specified in the contract.
 - **Banking Limitations.** AIWA accounts for banking limitations affecting personnel in Busumbala and the wider Gambian context, and applies practical payment methods accordingly.
 - **Tax Withholding.** AIWA withholds applicable taxes in compliance with Gambian tax law. Personnel receiving contractor fees are responsible for their own tax obligations as specified in their contracts.
-- **Cross-Border Payment Handling.** Cross-border payments to international consultants or technical service providers (including Starisian Technologies) are processed in compliance with Gambian exchange control regulations and applicable international standards.
+- **Cross-Border Payment Handling.** Cross-border payments to international consultants or technical service providers are processed in compliance with Gambian exchange control regulations and applicable international standards.
 - **Payment Records.** AIWA maintains complete and auditable payment records for all personnel categories for the minimum retention period required under Gambian law and this document (see Section 17.1).
 
 ### 7.3 Expense Reimbursement
@@ -366,7 +366,7 @@ Personnel engaged in AI-related operational work must comply with the following 
 
 The following principles are binding across all AI-related and annotation work:
 
-- **Labor does not transfer ownership.** A contributor's participation in transcription, annotation, translation, semantic review, or dataset preparation does not transfer ownership of the underlying work or cultural knowledge to AIWA, SPARXSTAR, or Starisian Technologies.
+- **Labor does not transfer ownership.** A contributor's participation in transcription, annotation, translation, semantic review, or dataset preparation does not transfer ownership of the underlying work or cultural knowledge to AIWA or any third-party technical platform provider.
 - **Annotation does not extinguish rights.** The act of annotating, tagging, or reviewing a work does not extinguish or diminish the contributor's existing ownership or cultural rights in that work.
 - **Governance participation does not create ownership claims.** Participation in AIWA governance review, cultural review, or dataset governance does not create any ownership interest in AIWA's organizational assets or technology infrastructure.
 - **Consent governs.** All AI-related use of contributor content is conditional on documented, informed consent that specifically addresses the intended use.
@@ -392,12 +392,12 @@ Confidentiality obligations survive the termination of any engagement with AIWA.
 - **Role-Based Access.** Access to AIWA systems, datasets, and records is granted on a need-to-know basis determined by role and programme function. No personnel receive access beyond what is required for their defined responsibilities.
 - **Cultural Restrictions.** Access to restricted cultural materials requires authorization from the relevant cultural governance authority and AIWA leadership.
 - **Dataset Restrictions.** AI datasets are subject to access controls consistent with provenance status, cultural restrictions, and contributor consent documentation.
-- **Audit Logging.** All access to restricted materials, SPARXSTAR systems, and personnel records is subject to audit logging. Access logs are retained and reviewed periodically.
+- **Audit Logging.** All access to restricted materials, vendor-managed technical systems, and personnel records is subject to audit logging. Access logs are retained and reviewed periodically.
 
-### 9.3 SPARXSTAR Access Controls
+### 9.3 Technical Platform Access Controls
 
-- **Account Issuance.** SPARXSTAR accounts are issued by AIWA on the basis of approved role assignments. Accounts are not issued to individuals without documented programme function.
-- **Credential Revocation.** Upon termination of engagement, suspension, or role change, SPARXSTAR credentials are revoked within twenty-four (24) hours.
+- **Account Issuance.** Technical platform accounts are issued by AIWA on the basis of approved role assignments. Accounts are not issued to individuals without documented programme function.
+- **Credential Revocation.** Upon termination of engagement, suspension, or role change, technical platform credentials are revoked within twenty-four (24) hours.
 - **Access Reviews.** AIWA conducts periodic access reviews (minimum annually) to confirm that all active accounts correspond to current, authorized personnel.
 - **Governance Escalation.** Access disputes, unauthorized access incidents, and access anomalies detected in audit logs are escalated to AIWA leadership and, where applicable, the Governance Board.
 
@@ -443,9 +443,9 @@ The following training is required for all personnel prior to commencing work (w
 
 ### 11.2 Technical Training
 
-Personnel with SPARXSTAR access or dataset responsibilities must complete:
+Personnel with technical platform access or dataset responsibilities must complete:
 
-- **SPARXSTAR Usage.** Orientation on authorized use, credential management, and security obligations.
+- **Technical Platform Usage.** Orientation on authorized use, credential management, and security obligations.
 - **Dataset Handling.** Training on access controls, metadata documentation, provenance tracking, and cultural restriction enforcement.
 - **Audit Procedures.** Training on audit log review, access anomaly reporting, and compliance documentation.
 - **Governance Workflows.** Training on AIWA's governance review and escalation procedures.
@@ -515,7 +515,7 @@ AIWA applies graduated disciplinary procedures:
 - **Written Warning.** For repeated minor violations or moderate conduct issues.
 - **Suspension.** For serious conduct violations pending investigation, or as a disciplinary measure following investigation.
 - **Termination.** For gross misconduct, serious safeguarding violations, repeated non-compliance, or conduct incompatible with continued engagement.
-- **Access Revocation.** SPARXSTAR and system access revoked upon suspension or termination.
+- **Access Revocation.** Technical platform and system access revoked upon suspension or termination.
 
 All disciplinary actions are documented, and the affected individual is provided notice, an opportunity to respond, and information about appeal rights before final action (except in emergency situations requiring immediate suspension to protect safety).
 
@@ -594,12 +594,12 @@ AIWA may engage international consultants for technical, cultural, or advisory s
 
 ### 16.2 Cross-Border Technical Support
 
-Technical support from Starisian Technologies and other international technical providers is governed by:
+Technical support from international technical providers is governed by:
 
 - **Defined Scope.** All cross-border technical support is defined in a written agreement specifying authorized activities, access permissions, and conduct obligations.
 - **Remote Infrastructure Maintenance.** Remote access to AIWA systems for maintenance purposes is subject to AIWA's access control procedures (see Section 9.3) and is logged and auditable.
 - **Restricted Access.** Technical support personnel may not access programme content, contributor data, or cultural materials beyond what is strictly necessary for the technical task, without written authorization from AIWA leadership.
-- **Conduct Obligations.** Starisian Technologies personnel accessing AIWA systems are bound by AIWA's confidentiality, data protection, and cultural governance standards for the duration of their access.
+- **Conduct Obligations.** External technical personnel accessing AIWA systems are bound by AIWA's confidentiality, data protection, and cultural governance standards for the duration of their access.
 
 ---
 
@@ -629,7 +629,7 @@ AIWA may conduct or commission audits of:
 
 - labor compliance with this document and applicable Gambian law;
 - safeguarding standard adherence;
-- access log review for SPARXSTAR and restricted systems;
+- access log review for vendor-managed technical systems and restricted systems;
 - contractor compliance with engagement terms; and
 - training completion records.
 
@@ -656,7 +656,7 @@ Violations of this document may result in, depending on severity:
 - suspension with or without pay pending investigation;
 - termination of employment or contractor relationship;
 - referral to appropriate Gambian authorities; and/or
-- permanent revocation of SPARXSTAR and platform access.
+- permanent revocation of technical platform and system access.
 
 AIWA reserves the right to pursue legal remedies under Gambian law for serious violations.
 
