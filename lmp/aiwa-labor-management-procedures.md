@@ -1195,7 +1195,7 @@ Personnel must not:
 
 ### 30.8 Digital Safeguarding
 
-Personnel must use approved communication channels, protect children’s personal information, avoid unauthorized direct messaging with students, and avoid sharing images of children without consent.
+Personnel must use approved communication channels, protect children's personal information, avoid unauthorized direct messaging with students, and avoid sharing images of children without consent.
 
 Recording or photographing children requires organizational authorization and, where applicable, parental or school consent.
 
