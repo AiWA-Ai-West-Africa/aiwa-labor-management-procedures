@@ -1205,9 +1205,9 @@ AIWA shall supervise personnel appropriately, restrict unauthorized access to ch
 
 ### 30.10 Mandatory Reporting Obligations
 
-Personnel must immediately report suspected abuse, exploitation, grooming, harassment, neglect, unsafe conduct, and safeguarding policy violations involving children.
+Personnel must immediately report suspected abuse, exploitation, grooming, harassment, neglect, unsafe conduct, and safeguarding policy violations involving children, in accordance with the mandatory reporting procedure in Section 6.3.
 
-Reports may be made to designated safeguarding officers, management, school authorities, and law enforcement where necessary. Failure to report safeguarding concerns may itself constitute misconduct.
+At a minimum, personnel must report the concern to the Safeguarding Focal Point within 24 hours and document the concern using Annex 3 within 48 hours, as required by Section 6.3. Reports may also be made to management, school authorities, and law enforcement where necessary, but these routes do not replace the obligation to report through Section 6.3. Failure to report safeguarding concerns may itself constitute misconduct.
 
 ### 30.11 Safeguarding Response Procedure
 
