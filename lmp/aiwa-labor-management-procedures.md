@@ -276,12 +276,6 @@ Workforce records, grievance records, incident files, and safeguarding records m
 - incident files: 7 years after final resolution and closure;
 - safeguarding records: 10 years after final resolution and closure, and longer if needed to protect affected persons or comply with mandatory reporting or legal obligations.
 
-Unless a stricter legal requirement or approved retention schedule applies, the following minimum retention periods apply:
-- workforce and personnel records: 7 years after separation or contract end;
-- grievance, disciplinary, and retaliation case records: 7 years after case closure;
-- safeguarding and child-protection records: until the subject reaches age 25 and at least 7 years after case closure, whichever is later; and
-- incident, security, and provenance-breach records: 7 years after closure.
-
 Records must be accurate, access-controlled, and preserved against tampering, unauthorized deletion, or retaliatory destruction.
 
 Access to personnel, safeguarding, grievance, and incident records is limited to authorized personnel with a documented need-to-know determination made under approved access-control procedures.
