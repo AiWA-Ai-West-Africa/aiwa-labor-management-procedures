@@ -46,7 +46,7 @@ This document — the AI West Africa Labor Management Procedures (AIWA-DOC-LM-01
 - compensation handling; and
 - labor dispute escalation.
 
-These procedures apply across AIWA programmes and SPARXSTAR-supported operations in Busumbala, The Gambia, and any field or cross-border extensions thereof.
+These procedures apply across AIWA programmes and vendor-supported technical operations in Busumbala, The Gambia, and any field or cross-border extensions thereof.
 
 ### 1.2 Governance Purpose
 
@@ -58,8 +58,8 @@ This document establishes:
 - robust youth safeguarding obligations; and
 - clear role separation between:
   - AIWA as programme operator and employer of record;
-  - SPARXSTAR as technical infrastructure;
-  - Starisian Technologies as technical service provider;
+  - third-party technical infrastructure providers;
+  - third-party technical service providers;
   - partner schools and educational institutions; and
   - independent contributors, cultural advisors, and community representatives.
 
@@ -73,8 +73,8 @@ AIWA operates at the intersection of cultural heritage preservation, AI developm
 
 This alignment is adopted because:
 
-- SPARXSTAR infrastructure is developed and maintained in California;
-- Starisian Technologies personnel may interact with AIWA programmes;
+- third-party technical infrastructure may be developed and maintained outside The Gambia;
+- external technical personnel may interact with AIWA programmes;
 - cross-border technical operations exist; and
 - future international partnerships will expect mature compliance practices.
 
@@ -146,25 +146,25 @@ AIWA — a Gambian-owned and Gambian-grown company headquartered in Busumbala, T
 - coordination of contributors and cultural representatives; and
 - compliance with the Labour Act 2007 (The Gambia) and all applicable Gambian legal obligations.
 
-### 3.2 SPARXSTAR Relationship
+### 3.2 Third-Party Technical Platform Relationship
 
-SPARXSTAR is technical infrastructure used by AIWA to support programme operations, data management, governance workflows, and platform development. The following limitations apply:
+AIWA may use third-party technical platforms to support programme operations, data management, governance workflows, and platform development. The following limitations apply:
 
-- Use of SPARXSTAR does **not** create employment between contributors or AIWA personnel and Starisian Technologies.
-- SPARXSTAR access does **not** transfer labor authority or workforce governance to Starisian Technologies.
-- SPARXSTAR access does **not** alter contributor ownership rights or cultural governance restrictions.
-- Technical access to SPARXSTAR is governed by AIWA access control policies (see Section 9.3).
+- Use of third-party technical platforms does **not** create employment between contributors or AIWA personnel and platform vendors.
+- Access to third-party technical platforms does **not** transfer labor authority or workforce governance to vendors.
+- Access to third-party technical platforms does **not** alter contributor ownership rights or cultural governance restrictions.
+- Technical platform access is governed by AIWA access control policies (see Section 9.3).
 
-### 3.3 Starisian Technologies Role
+### 3.3 Third-Party Technical Service Provider Role
 
-Starisian Technologies may provide:
+Approved third-party technical service providers may provide:
 
 - technical support services;
 - infrastructure maintenance;
 - engineering consultation; and
 - platform development services.
 
-Starisian personnel engaged for these purposes are **not** automatically AIWA personnel. Their engagement is governed by specific contractor agreements subject to the cross-border provisions of this document (see Section 16.2). They are subject to AIWA's access control, confidentiality, and conduct standards while performing work on AIWA systems or programmes.
+External technical personnel engaged for these purposes are **not** automatically AIWA personnel. Their engagement is governed by specific contractor agreements subject to the cross-border provisions of this document (see Section 16.2). They are subject to AIWA's access control, confidentiality, and conduct standards while performing work on AIWA systems or programmes.
 
 ---
 
@@ -323,7 +323,7 @@ AIWA applies the following payroll procedures:
 - **Payment Schedules.** Employee salaries are paid on a defined schedule, consistent with Gambian law. Contractor fees are paid upon completion of defined deliverables or at intervals specified in the contract.
 - **Banking Limitations.** AIWA accounts for banking limitations affecting personnel in Busumbala and the wider Gambian context, and applies practical payment methods accordingly.
 - **Tax Withholding.** AIWA withholds applicable taxes in compliance with Gambian tax law. Personnel receiving contractor fees are responsible for their own tax obligations as specified in their contracts.
-- **Cross-Border Payment Handling.** Cross-border payments to international consultants or technical service providers (including Starisian Technologies) are processed in compliance with Gambian exchange control regulations and applicable international standards.
+- **Cross-Border Payment Handling.** Cross-border payments to international consultants or technical service providers are processed in compliance with Gambian exchange control regulations and applicable international standards.
 - **Payment Records.** AIWA maintains complete and auditable payment records for all personnel categories for the minimum retention period required under Gambian law and this document (see Section 17.1).
 
 ### 7.3 Expense Reimbursement
@@ -366,7 +366,7 @@ Personnel engaged in AI-related operational work must comply with the following 
 
 The following principles are binding across all AI-related and annotation work:
 
-- **Labor does not transfer ownership.** A contributor's participation in transcription, annotation, translation, semantic review, or dataset preparation does not transfer ownership of the underlying work or cultural knowledge to AIWA, SPARXSTAR, or Starisian Technologies.
+- **Labor does not transfer ownership.** A contributor's participation in transcription, annotation, translation, semantic review, or dataset preparation does not transfer ownership of the underlying work or cultural knowledge to AIWA or any third-party technical platform provider.
 - **Annotation does not extinguish rights.** The act of annotating, tagging, or reviewing a work does not extinguish or diminish the contributor's existing ownership or cultural rights in that work.
 - **Governance participation does not create ownership claims.** Participation in AIWA governance review, cultural review, or dataset governance does not create any ownership interest in AIWA's organizational assets or technology infrastructure.
 - **Consent governs.** All AI-related use of contributor content is conditional on documented, informed consent that specifically addresses the intended use.
@@ -392,12 +392,12 @@ Confidentiality obligations survive the termination of any engagement with AIWA.
 - **Role-Based Access.** Access to AIWA systems, datasets, and records is granted on a need-to-know basis determined by role and programme function. No personnel receive access beyond what is required for their defined responsibilities.
 - **Cultural Restrictions.** Access to restricted cultural materials requires authorization from the relevant cultural governance authority and AIWA leadership.
 - **Dataset Restrictions.** AI datasets are subject to access controls consistent with provenance status, cultural restrictions, and contributor consent documentation.
-- **Audit Logging.** All access to restricted materials, SPARXSTAR systems, and personnel records is subject to audit logging. Access logs are retained and reviewed periodically.
+- **Audit Logging.** All access to restricted materials, vendor-managed technical systems, and personnel records is subject to audit logging. Access logs are retained and reviewed periodically.
 
-### 9.3 SPARXSTAR Access Controls
+### 9.3 Technical Platform Access Controls
 
-- **Account Issuance.** SPARXSTAR accounts are issued by AIWA on the basis of approved role assignments. Accounts are not issued to individuals without documented programme function.
-- **Credential Revocation.** Upon termination of engagement, suspension, or role change, SPARXSTAR credentials are revoked within twenty-four (24) hours.
+- **Account Issuance.** Technical platform accounts are issued by AIWA on the basis of approved role assignments. Accounts are not issued to individuals without documented programme function.
+- **Credential Revocation.** Upon termination of engagement, suspension, or role change, technical platform credentials are revoked within twenty-four (24) hours.
 - **Access Reviews.** AIWA conducts periodic access reviews (minimum annually) to confirm that all active accounts correspond to current, authorized personnel.
 - **Governance Escalation.** Access disputes, unauthorized access incidents, and access anomalies detected in audit logs are escalated to AIWA leadership and, where applicable, the Governance Board.
 
@@ -443,9 +443,9 @@ The following training is required for all personnel prior to commencing work (w
 
 ### 11.2 Technical Training
 
-Personnel with SPARXSTAR access or dataset responsibilities must complete:
+Personnel with technical platform access or dataset responsibilities must complete:
 
-- **SPARXSTAR Usage.** Orientation on authorized use, credential management, and security obligations.
+- **Technical Platform Usage.** Orientation on authorized use, credential management, and security obligations.
 - **Dataset Handling.** Training on access controls, metadata documentation, provenance tracking, and cultural restriction enforcement.
 - **Audit Procedures.** Training on audit log review, access anomaly reporting, and compliance documentation.
 - **Governance Workflows.** Training on AIWA's governance review and escalation procedures.
@@ -515,7 +515,7 @@ AIWA applies graduated disciplinary procedures:
 - **Written Warning.** For repeated minor violations or moderate conduct issues.
 - **Suspension.** For serious conduct violations pending investigation, or as a disciplinary measure following investigation.
 - **Termination.** For gross misconduct, serious safeguarding violations, repeated non-compliance, or conduct incompatible with continued engagement.
-- **Access Revocation.** SPARXSTAR and system access revoked upon suspension or termination.
+- **Access Revocation.** Technical platform and system access revoked upon suspension or termination.
 
 All disciplinary actions are documented, and the affected individual is provided notice, an opportunity to respond, and information about appeal rights before final action (except in emergency situations requiring immediate suspension to protect safety).
 
@@ -594,12 +594,12 @@ AIWA may engage international consultants for technical, cultural, or advisory s
 
 ### 16.2 Cross-Border Technical Support
 
-Technical support from Starisian Technologies and other international technical providers is governed by:
+Technical support from international technical providers is governed by:
 
 - **Defined Scope.** All cross-border technical support is defined in a written agreement specifying authorized activities, access permissions, and conduct obligations.
 - **Remote Infrastructure Maintenance.** Remote access to AIWA systems for maintenance purposes is subject to AIWA's access control procedures (see Section 9.3) and is logged and auditable.
 - **Restricted Access.** Technical support personnel may not access programme content, contributor data, or cultural materials beyond what is strictly necessary for the technical task, without written authorization from AIWA leadership.
-- **Conduct Obligations.** Starisian Technologies personnel accessing AIWA systems are bound by AIWA's confidentiality, data protection, and cultural governance standards for the duration of their access.
+- **Conduct Obligations.** External technical personnel accessing AIWA systems are bound by AIWA's confidentiality, data protection, and cultural governance standards for the duration of their access.
 
 ---
 
@@ -629,7 +629,7 @@ AIWA may conduct or commission audits of:
 
 - labor compliance with this document and applicable Gambian law;
 - safeguarding standard adherence;
-- access log review for SPARXSTAR and restricted systems;
+- access log review for vendor-managed technical systems and restricted systems;
 - contractor compliance with engagement terms; and
 - training completion records.
 
@@ -656,344 +656,456 @@ Violations of this document may result in, depending on severity:
 - suspension with or without pay pending investigation;
 - termination of employment or contractor relationship;
 - referral to appropriate Gambian authorities; and/or
-- permanent revocation of SPARXSTAR and platform access.
+- permanent revocation of technical platform and system access.
 
 AIWA reserves the right to pursue legal remedies under Gambian law for serious violations.
 
 ---
 
-## 19. Core Statements
+## 19. Core Values
 
-### 19.1
+The following Core Values are mandatory standards for all employees, managers, contractors, consultants, vendors, partners, and representatives of AIWA:
 
-AIWA administers labour relationships. AIWA does not acquire ownership of contributor works through labor participation, annotation work, governance review, or dataset preparation.
+- Constant Never-Ending Improvement
+- Honesty Without Compromise
+- Positive and Inspiring
+- Have Fun
+- Whatever It Takes
 
-### 19.2
+Employees, managers, and vendors are expected to live and breathe these Core Values, promote them in others, and work only with individuals and companies that share the same commitment.
 
-Use of SPARXSTAR does not create employment between contributors or AIWA personnel and Starisian Technologies. SPARXSTAR is technical infrastructure; it confers no labor rights or obligations on Starisian Technologies beyond its defined technical service role.
+These Core Values apply to:
 
-### 19.3
+- decision-making;
+- communication;
+- leadership;
+- operational conduct;
+- vendor relationships;
+- customer interactions;
+- partnerships;
+- workplace behavior;
+- public representation of the company; and
+- execution of responsibilities.
 
-Safeguarding obligations override operational convenience. No programme timeline, budget constraint, staffing pressure, or organizational relationship justifies deviation from AIWA safeguarding standards.
+These Core Values govern hiring, assignment, promotion, compensation decisions, discipline, termination, and vendor or contractor relationship decisions.
 
-### 19.4
+Conduct inconsistent with these Core Values may result in:
 
-Cultural governance obligations apply to all workforce conduct. Personnel who interact with cultural materials, community representatives, or restricted content must comply with AIWA's cultural governance standards as a non-negotiable condition of engagement.
+- corrective action;
+- removal from projects;
+- loss of responsibilities;
+- suspension;
+- termination of employment;
+- termination of contracts; or
+- termination of vendor or business relationships.
 
-### 19.5
+The company generally follows progressive discipline (see Section 37):
 
-AI-related operational work must comply with contributor consent, provenance requirements, and cultural governance restrictions. Personnel who handle, process, or review AI datasets are stewards of contributor rights and community trust, not merely technical operators.
+- Verbal Warning
+- Written Warning
+- Termination
 
-### 19.6
+However, the company reserves the right to skip disciplinary steps depending on:
 
-No personnel relationship, contractor arrangement, technical support role, or platform access privilege overrides contributor ownership rights, cultural governance restrictions, safeguarding obligations, or documented consent limitations.
+- severity;
+- dishonesty;
+- repeated conduct;
+- operational risk;
+- harassment;
+- breach of trust;
+- confidentiality violations;
+- misconduct;
+- reputational harm;
+- safety concerns; or
+- damage to the company.
 
----
-
-## 20. Workplace Harassment Prevention
-
-### 20.1 Policy Statement
-
-AIWA is committed to a workplace free from harassment in all forms. This commitment extends to all personnel, contributors, community participants, students, and visitors across all AIWA programme environments.
-
-Harassment includes, but is not limited to:
-
-- sexual harassment, including unwanted physical contact, verbal conduct, requests for sexual favors, and digital or written communications of a sexual nature;
-- bullying, including persistent criticism, humiliation, or intimidation;
-- hostile work environment conduct, including offensive comments, slurs, or displays relating to any protected characteristic;
-- abuse of authority, including using positional power to coerce, humiliate, or disadvantage a person; and
-- anti-bullying: persistent negative conduct that undermines a person's dignity or working environment, even where not classified as harassment under applicable law.
-
-*California-aligned note:* AIWA adopts anti-harassment standards consistent with internationally recognized best practice, including requirements applicable in California, to reflect the cross-border nature of AIWA operations and the highest operational standards.
-
-### 20.2 Supervisor Obligations in Harassment Prevention
-
-Supervisors and managers are required to:
-
-- model respectful workplace conduct at all times;
-- promptly report any harassment they witness or become aware of to AIWA's designated reporting channel;
-- not retaliate against or discourage persons who raise harassment concerns;
-- maintain confidentiality in handling harassment reports to the maximum extent possible; and
-- cooperate fully with any investigation.
-
-### 20.3 Zero Tolerance for Sexual Harassment
-
-AIWA applies zero tolerance for sexual harassment. A single serious incident of sexual harassment may result in immediate termination of engagement. Sexual harassment in the context of programme activities involving minors is referred to appropriate authorities as a safeguarding incident.
-
-### 20.4 Anti-Hostile Work Environment Standards
-
-AIWA prohibits conduct that creates a hostile, intimidating, or offensive work or programme environment. This includes:
-
-- offensive comments based on ethnicity, religion, gender, disability, language, or community origin;
-- persistent exclusion, ostracism, or isolation of a colleague or contributor; and
-- intimidating communication styles in supervision or programme management.
+Some conduct may result in immediate termination.
 
 ---
 
-## 21. Anti-Retaliation Protections
+## 20. Management Expectations
 
-### 21.1 Protected Reporting
+All managers and supervisors are accountable for leadership conduct, operational discipline, and enforcement of this document.
 
-The following reporting activities are protected, and no adverse action may be taken against any person for engaging in them:
+Managers and supervisors must:
 
-- reporting a safeguarding concern, harassment complaint, or ethics concern in good faith;
-- participating in an investigation or inquiry as a witness or complainant;
-- refusing to participate in conduct that would violate this document or applicable law;
-- raising concerns about AI governance, provenance compliance, or cultural governance; and
-- exercising any rights under Gambian labor law or AIWA policy.
+- maintain professionalism in decisions, communication, and conduct;
+- enforce standards consistently and without favoritism;
+- prohibit retaliation against any person who reports concerns in good faith;
+- communicate expectations, decisions, and corrective actions clearly and promptly;
+- maintain operational continuity, staffing control, and task execution discipline;
+- escalate material risks, policy violations, and legal concerns without delay; and
+- document performance and conduct actions accurately.
 
-### 21.2 Prohibited Retaliation
+Management retaliation prohibitions are enforced under Section 22.
 
-The following actions constitute prohibited retaliation and are grounds for termination:
-
-- demotion, reduction in compensation, or adverse assignment;
-- exclusion from programme activities or professional opportunities;
-- negative performance evaluations or references motivated by a protected report;
-- intimidation, threats, or hostile conduct toward a reporter or witness;
-- sharing a reporter's identity without consent; and
-- any other adverse action connected to a protected report.
-
-### 21.3 Reporting Retaliation
-
-Personnel who experience retaliation may report it through the same channels as harassment and ethics complaints. AIWA investigates retaliation complaints with the same rigor as underlying complaints.
+Failure by a manager or supervisor to enforce policy, report serious misconduct, or maintain professional leadership standards is itself a disciplinary matter.
 
 ---
 
-## 22. Whistleblower Reporting
+## 21. Professional Conduct
 
-### 22.1 Protected Disclosures
+All employees, managers, contractors, consultants, vendors, and representatives must maintain professional conduct at all times in workplaces, programme sites, schools, communities, digital channels, and public-facing activities.
 
-AIWA provides protected reporting channels for whistleblower disclosures relating to:
+Required conduct includes:
 
-- safeguarding failures or child protection concerns;
-- fraud, corruption, or financial misconduct;
-- violations of contributor ownership rights or cultural governance restrictions;
-- AI governance failures or unauthorized dataset use;
-- unauthorized access to restricted systems or cultural materials;
-- misclassification of workers; and
-- any other material violation of this document or applicable law.
+- respectful treatment of colleagues, contributors, partners, customers, and community members;
+- professional communication standards in verbal, written, digital, and platform-based communications;
+- operational behavior that supports execution, safety, and orderly workplace performance; and
+- compliance with directives issued under this document.
 
-### 22.2 Confidential Escalation
-
-Whistleblower reports may be submitted confidentially to:
-
-- AIWA's designated Ethics Reporting channel;
-- the AIWA Safeguarding Focal Point (for safeguarding disclosures); or
-- the Governance Board (for disclosures involving AIWA leadership).
-
-AIWA does not require reporters to identify themselves, though anonymous reports may limit investigative options.
-
-### 22.3 Safeguarding Reporting Immunity
-
-No person who in good faith reports a safeguarding concern, even if the concern is ultimately found to be unsubstantiated, faces any adverse consequence. Good-faith reporting immunity is absolute.
-
-### 22.4 Ethics Reporting Protections
-
-Whistleblower reporters receive the full anti-retaliation protections of Section 21 of this document. AIWA maintains the confidentiality of reporter identities to the maximum extent possible consistent with investigation requirements.
+Workplace disruption, repeated unprofessional behavior, refusal to comply with lawful instructions, or conduct that undermines operations may result in corrective action up to and including termination.
 
 ---
 
-## 23. Digital Communications Conduct
+## 22. Harassment, Misconduct, and Non-Retaliation
 
-### 23.1 Standards for Digital Communications
+Harassment, intimidation, bullying, hostile behavior, threats, discrimination, and abuse of authority are prohibited.
 
-All digital communications by AIWA personnel — including email, messaging platforms, social media, and any SPARXSTAR-integrated communication tools — must comply with the following:
+All personnel, managers, contractors, and vendors must:
 
-- communications must be professional, respectful, and appropriate to the organizational context;
-- personnel may not use digital communications to harass, intimidate, or engage in prohibited conduct toward colleagues, contributors, or community members;
-- confidential information may not be transmitted through unsecured or unauthorized channels;
-- personnel may not use personal social media accounts to make representations on behalf of AIWA without authorization; and
-- any communications involving minors must occur through authorized programme channels only, with appropriate adult supervision and parental awareness.
+- report known or suspected harassment or serious misconduct through designated reporting channels;
+- cooperate fully and truthfully in investigations;
+- preserve confidentiality during investigations to the extent required by law and policy; and
+- refrain from retaliation against any person who reports concerns or participates in an investigation.
 
-### 23.2 Unauthorized Digital Contact with Minors
-
-Digital communication with minors outside authorized programme channels is strictly prohibited. Authorized programme communications with students must:
-
-- occur through school-coordinated channels;
-- be visible to appropriate adult supervisors; and
-- not involve personal phone numbers, personal email addresses, or personal social media accounts.
-
-### 23.3 Data Security in Communications
-
-Personnel must:
-
-- use AIWA-approved channels for transmitting restricted or confidential programme information;
-- not share credentials, access codes, or system passwords via any communication channel; and
-- report any accidental disclosure of confidential information through digital channels immediately.
+Serious harassment, threats, or retaliatory conduct — including retaliation by managers or supervisors — may result in immediate removal from duties, suspension, contract termination, or employment termination.
 
 ---
 
-## 24. Remote Work & Cross-Border Operations
+## 23. Confidentiality
 
-### 24.1 Remote Work Standards
+All personnel, contractors, consultants, and vendors must protect confidential information obtained through company work, including:
 
-Where AIWA personnel work remotely — including field workers, international consultants, and Starisian technical personnel — the following standards apply:
+- confidential business information and internal operational plans;
+- contracts, licensing terms, royalty structures, and financial arrangements;
+- passwords, access credentials, and security configurations;
+- internal communications and internal decision records;
+- user, customer, contributor, and personnel information;
+- unreleased content, datasets, product materials, and programme records; and
+- any other information designated confidential by the company.
 
-- all AIWA policies apply equally to remote work contexts;
-- personnel working remotely with access to restricted materials or SPARXSTAR systems must use secure, encrypted connections;
-- remote workers must maintain professional conduct standards consistent with Section 12.1; and
-- remote personnel must be reachable during defined working hours and maintain agreed communication protocols.
-
-### 24.2 Cross-Border Operational Standards
-
-Cross-border operations — including field programmes, international consultancy, and technical support from Starisian Technologies — must comply with:
-
-- applicable Gambian law governing the specific activity;
-- this document's conduct, safeguarding, and confidentiality standards;
-- any applicable immigration, tax, or regulatory requirements; and
-- AIWA's access control and data protection standards regardless of location.
+Confidentiality obligations are mandatory during engagement and continue after termination or contract completion. Unauthorized disclosure, misuse, transfer, or retention of confidential information is a disciplinary violation and may trigger legal action.
 
 ---
 
-## 25. Safeguarding During Online Interaction
+## 24. Computers, Email, and Systems Use
 
-### 25.1 Online Safeguarding Standards
+Company systems, accounts, platforms, devices, software, network resources, and email are for authorized business use and remain company-controlled resources.
 
-AIWA's safeguarding obligations extend fully to online and digital programme environments. The following standards apply to all digital interactions involving minors or vulnerable participants:
+All users must:
 
-- **Consent Documentation.** Online interaction with minors requires prior written parental consent specifically addressing the digital nature of the interaction.
-- **Platform Restrictions.** Minors may only participate in online programme activities through platforms approved by AIWA and the relevant school institution.
-- **Recording Restrictions.** Online sessions involving minors may not be recorded without specific parental consent and school authorization.
-- **Communication Restrictions.** Direct messaging between programme personnel and individual minors is prohibited outside the presence of a responsible adult.
-- **Digital Contact Rules.** No AIWA personnel may request connection with a minor on personal social media platforms.
-- **Monitoring.** Online group sessions involving minors must have a designated AIWA safeguarding monitor present.
+- use systems only for authorized operational purposes;
+- follow password, access control, and multi-factor authentication requirements;
+- protect systems from malware, phishing, credential theft, and unauthorized access attempts;
+- report security incidents immediately;
+- comply with software licensing and intellectual property requirements; and
+- follow all company data handling and retention rules.
 
-### 25.2 AI Interaction Restrictions
+Prohibited conduct includes unauthorized system access, credential sharing, piracy, infringement, deliberate system abuse, unauthorized software installation, and intentional bypass of security controls.
 
-AI tools, AI-generated content, and SPARXSTAR-integrated capabilities may not be used in any way that:
+The company may monitor, review, preserve, and audit system activity, communications, and stored data on company-managed systems to protect operations, security, legal compliance, and organizational assets.
 
-- processes a minor's personal data without specific parental consent;
-- uses a minor's voice, image, or likeness for AI training;
-- generates AI content involving minors without explicit authorization; or
-- creates AI-generated interactions with minors outside authorized programme contexts.
+Monitoring scope includes account usage logs, security events, and business communications on company-managed systems and company accounts.
 
----
-
-## 26. Data Access Monitoring
-
-### 26.1 Access Logging Requirements
-
-AIWA maintains audit logs for the following access events:
-
-- login and logout from SPARXSTAR and restricted AIWA systems;
-- access to restricted cultural materials or datasets;
-- downloads or exports of dataset or archival materials;
-- access to contributor personal data or payment records; and
-- administrative actions on AIWA systems, including account creation, modification, and deletion.
-
-Logs are retained for a minimum of three (3) years and are protected against tampering.
-
-### 26.2 Access Review Procedures
-
-- AIWA conducts access reviews at minimum twice per year.
-- Reviews confirm that all active accounts correspond to current, authorized personnel with a valid programme function.
-- Access anomalies — including access at unusual hours, unusual volumes of downloads, or access to materials outside a user's role — are investigated.
-- Confirmed unauthorized access is reported to AIWA leadership and, where involving a security or safeguarding concern, to the Governance Board.
-
-### 26.3 Breach Notification
-
-Where an access event constitutes or may constitute a data breach:
-
-- AIWA leadership is notified within twenty-four (24) hours of discovery;
-- affected contributors or personnel are notified as required by applicable law and the nature of the breach;
-- remediation steps are documented; and
-- where a breach involves personal data of minors, the Safeguarding Focal Point is included in the response.
+Monitoring is implemented with notice to users through written policy acknowledgments and systems-use forms (Annex 3), and in compliance with applicable Gambian law.
 
 ---
 
-## 27. Investigation Procedures
+## 25. Phones and Messaging
 
-### 27.1 Triggering Investigations
+Company-issued phones, tablets, messaging accounts, and communication tools are company property and must be used for authorized business purposes.
 
-A formal investigation is triggered by:
+Where personal devices are approved for company work, users must comply with security and recordkeeping requirements, including device lock controls, approved apps, and separation of business records.
 
-- a formal complaint under Section 13.1;
-- a whistleblower disclosure under Section 22;
-- a safeguarding incident report under Section 6.3;
-- a suspected policy violation identified through audit review; or
-- a referral from AIWA leadership or the Governance Board.
+Communication expectations apply across calls, SMS, WhatsApp, Signal, Telegram, email, and other approved platforms:
 
-### 27.2 Investigation Timelines
+- maintain professional communication standards;
+- avoid unauthorized disclosure of confidential information;
+- avoid informal channels for sensitive approvals, commitments, or legal decisions;
+- comply with records retention and reporting requirements; and
+- cooperate with lawful internal records requests.
 
-- Acknowledgment of complaint: within five (5) business days of receipt.
-- Appointment of investigator: within ten (10) business days of acknowledgment.
-- Preliminary findings: within thirty (30) days of investigation commencement, absent exceptional circumstances.
-- Final report: within sixty (60) days of commencement, absent exceptional circumstances.
+Unauthorized recording, photography, or distribution is prohibited unless expressly authorized in writing by AIWA leadership, the Executive Director, or an HR/Compliance officer designated in writing by the Executive Director. This prohibition includes:
 
-Safeguarding investigations involving minors receive expedited handling.
+- internal meetings and internal communications;
+- facilities and physical workspaces;
+- records, systems, and operational documents;
+- personnel, programme, participant, customer, or contributor data; and
+- photos, audio, video, screenshots, or copied message content.
 
-### 27.3 Evidence Handling
+Nothing in this section removes or limits lawful reporting or evidence-preservation rights available under applicable Gambian law.
 
-- All documentary evidence is collected and preserved securely upon investigation commencement.
-- Investigative materials are accessible only to the investigator(s) and authorized leadership.
-- Evidence is not disclosed to parties beyond what is required for the investigation and natural justice.
-- Evidence is retained for a minimum of five (5) years following conclusion of the matter.
-
-### 27.4 Witness Confidentiality
-
-- The identities of witnesses are protected to the maximum extent possible.
-- Witnesses are not disclosed to the subject of investigation without their consent, except where required by natural justice or applicable law.
-- Witnesses are protected against retaliation (see Section 21).
-
-### 27.5 Interim Protective Actions
-
-Where necessary to protect safety, programme integrity, or evidence:
-
-- the subject of an investigation may be suspended from programme access pending conclusion;
-- SPARXSTAR access may be suspended pending investigation; and
-- interim protective measures are implemented as quickly as practicable after investigation commencement.
-
-Interim suspension does not constitute a finding of wrongdoing.
-
-### 27.6 Conflict Review
-
-Where the designated investigator has a conflict of interest in relation to the subject or complainant, an alternative investigator is appointed. Conflicts are disclosed immediately and documented.
+All company devices, SIM cards, and communication assets must be returned at separation or upon request.
 
 ---
 
-## 28. Supervisor Conduct Obligations
+## 26. Workspace and Desk Organization
 
-### 28.1 General Supervisor Standards
+All personnel must maintain secure and orderly workspaces.
 
-All AIWA supervisors and managers — including programme leads, department heads, and senior contractors with supervisory responsibilities — are held to the following heightened standards:
+Requirements include:
 
-- **Model Conduct.** Supervisors set the standard for workplace culture through their own conduct. Supervisory misconduct is treated as an aggravated violation.
-- **Active Accountability.** Supervisors are responsible for identifying and addressing conduct issues in their teams, not merely responding to complaints.
-- **Non-Intimidation.** Supervisors must not use positional authority to intimidate, coerce, or disadvantage subordinate personnel or contributors.
-- **Impartiality.** Supervisors must make performance, assignment, and disciplinary decisions on objective, documented grounds.
+- clean desk standards at the end of each work period;
+- secure handling of files, notebooks, printed records, and storage media;
+- locked storage for restricted records and equipment when unattended;
+- organized filing and labeling to support operational continuity;
+- responsible care of assigned equipment and tools; and
+- prevention of visitor visibility of confidential records, screens, or operational materials.
 
-### 28.2 Supervisor Reporting Obligations
+Failure to maintain secure workspace standards may result in corrective action.
 
-Supervisors are required to:
+---
 
-- report any harassment, safeguarding concern, or ethics issue they observe or become aware of — regardless of whether a formal complaint has been made;
-- not discourage or delay formal reporting;
-- not conduct informal "resolutions" of serious misconduct without HR and leadership involvement; and
-- not promise confidentiality they cannot maintain.
+## 27. Records Management
 
-### 28.3 Supervisor Accountability
+All teams must maintain accurate, complete, and retrievable records.
 
-Supervisors who fail to report conduct violations, who retaliate against reporters, who discourage complaints, or who engage in prohibited conduct themselves are subject to enhanced disciplinary consequences, up to and including termination.
+Requirements include:
+
+- standardized file organization and naming conventions;
+- retention, archival, and deletion schedules approved by leadership;
+- controlled deletion and secure destruction of records;
+- backup procedures for essential records;
+- shared-drive and cloud workspace standards, including access controls; and
+- version control and change tracking for critical documents.
+
+Unauthorized deletion, concealment, alteration, or destruction of company records is prohibited and may result in immediate disciplinary action.
+
+---
+
+## 28. Dress and Appearance
+
+Employees, managers, contractors, and representatives must maintain professional appearance and hygiene appropriate to role, work location, and public representation duties.
+
+Personnel participating in meetings, community engagements, school activities, events, and official external interactions must wear attire appropriate to the setting and safety requirements.
+
+Clothing, symbols, or messages that are offensive, discriminatory, threatening, sexually explicit, or likely to undermine professional representation are prohibited, including hate speech, targeted harassment language, explicit sexual images or wording, and symbols that promote violence.
+
+Site-specific attire and safety requirements for schools, community events, and field operations are issued in writing by management and are mandatory where assigned.
+
+---
+
+## 29. Bribes, Gifts, and Kickbacks
+
+The company prohibits bribery, kickbacks, and corrupt influence in all transactions.
+
+No employee, manager, contractor, or vendor may offer, request, authorize, or accept:
+
+- bribes, kickbacks, or facilitation payments;
+- gifts, benefits, or favors intended to influence company decisions; or
+- undisclosed payments or benefits related to procurement, vendor selection, hiring, or approvals.
+
+Any offered or requested improper payment, benefit, or influence attempt must be disclosed immediately.
+
+Violations are grounds for disciplinary action up to and including termination, contract cancellation, vendor disqualification, and referral to relevant authorities.
+
+---
+
+## 30. Conflicts of Interest
+
+All personnel and decision-makers must avoid conflicts between personal interests and company interests.
+
+Conflicts requiring disclosure include:
+
+- outside business interests that affect company decisions or responsibilities;
+- undisclosed personal relationships with vendors, applicants, or counterparties in active decisions;
+- financial interests that could influence procurement, contracting, approvals, or evaluations;
+- competing interests involving concurrent roles or commitments; and
+- any vendor, contractor, or partner relationship creating divided loyalty.
+
+Conflicts must be disclosed promptly in writing. The company may require recusal, reassignment, mitigation controls, or termination of a conflicting relationship.
+
+---
+
+## 31. Vendor and Contractor Standards
+
+All vendors, contractors, consultants, and partner entities must comply with applicable requirements of this document, including Core Values, conduct standards, confidentiality, security obligations, and reporting duties.
+
+Vendor and contractor relationships are subject to:
+
+- professional conduct and communication standards;
+- protection of confidential information and company assets;
+- compliance with authorized system and access controls;
+- cooperation with incident response, audits, and investigations; and
+- termination where conduct, security, legal, or operational standards are not met.
+
+The company may suspend access or terminate relationships immediately for serious non-compliance.
+
+---
+
+## 32. Attendance and Work Expectations
+
+Personnel are required to meet punctuality, attendance, responsiveness, and deadline expectations for their assigned roles.
+
+Requirements include:
+
+- timely attendance and readiness for scheduled duties;
+- prompt reporting of absences, lateness, or schedule conflicts;
+- responsiveness to work-critical communications during required working periods;
+- completion of assignments by approved deadlines;
+- compliance with remote work accountability and availability standards; and
+- prior authorization for overtime where required by company procedures.
+
+Repeated attendance failures, non-responsiveness, or unjustified performance delays may result in corrective action.
+
+---
+
+## 33. Expense and Travel Procedures
+
+All expense and travel activities must follow approved reimbursement and authorization procedures.
+
+Requirements include:
+
+- prior approval for eligible travel and major expenses;
+- timely submission of complete reimbursement requests;
+- original or verifiable receipts for claimed expenses;
+- compliance with approved expense limits and permitted categories;
+- protection and proper use of company property during travel; and
+- truthful, accurate, and complete expense reporting.
+
+False or unauthorized expense claims may result in disciplinary action, reimbursement recovery, contract action, and legal escalation.
+
+---
+
+## 34. Smoking, Drugs, and Alcohol
+
+Smoking, drug, and alcohol conduct must not compromise safety, professionalism, or operational effectiveness.
+
+Prohibited conduct includes:
+
+- working while intoxicated or impaired;
+- possession, use, distribution, or sale of illegal substances in company workplaces or programme settings;
+- unauthorized alcohol or substance use during working duties; and
+- conduct that creates safety risks due to impairment.
+
+The company may remove an individual from duty immediately where impairment or safety risk is reasonably suspected, pending further review.
+
+---
+
+## 35. Complaints and Reporting
+
+The company maintains formal channels for workplace complaints and policy violation reports.
+
+All personnel, managers, contractors, and vendors must:
+
+- report violations, misconduct, safeguarding concerns, security incidents, and ethics concerns through designated channels;
+- escalate urgent or high-risk matters immediately;
+- provide truthful information and supporting documentation; and
+- cooperate with investigation and corrective processes.
+
+Retaliation against good-faith reporting is prohibited and is itself a disciplinary violation.
+
+---
+
+## 36. Suggestions and Operational Improvement
+
+Personnel are expected to identify inefficiencies, operational risks, and process breakdowns and to report practical improvement suggestions.
+
+Managers must review, evaluate, and action operational improvement proposals where appropriate, with documented accountability for implementation decisions.
+
+Continuous operational improvement is a mandatory part of role performance and leadership accountability.
+
+---
+
+## 37. Discipline and Corrective Action
+
+Compliance with this document is mandatory for employees, managers, contractors, consultants, and vendors operating under company authority.
+
+Disciplinary and corrective consequences may include:
+
+- verbal warning;
+- written warning;
+- suspension pending investigation;
+- removal from assignment or system access;
+- termination of employment;
+- termination of contract; or
+- termination of vendor or business relationship.
+
+The company generally applies progressive discipline:
+
+- Verbal Warning
+- Written Warning
+- Termination
+
+The company may skip any step and proceed to immediate termination or immediate contract/vendor termination based on:
+
+- severity;
+- dishonesty;
+- repeated conduct;
+- operational risk;
+- harassment;
+- breach of trust;
+- confidentiality violations;
+- misconduct;
+- reputational harm;
+- safety concerns; or
+- damage to the company.
+
+All disciplinary actions are documented in company records.
+
+---
+
+## 38. Termination and Exit Procedures
+
+Upon resignation, termination, or contract completion:
+
+- access to systems, platforms, and facilities is revoked based on role and risk;
+- company property, devices, records, credentials, and materials must be returned;
+- company data on personal or third-party devices must be returned or securely deleted as directed;
+- final obligations are documented and acknowledged; and
+- continuing confidentiality, non-disclosure, and records protection obligations remain in force.
+
+Failure to comply with exit obligations may result in withholding of clearances, contract enforcement action, legal claims, or referral to relevant authorities.
+
+---
+
+## 39. Security Procedures
+
+All personnel, managers, contractors, consultants, and vendors must follow security procedures, including:
+
+- lock and physical security procedures for offices, rooms, files, and devices;
+- visitor access controls and escort requirements;
+- badge, key, and access credential controls;
+- prevention of unauthorized physical or digital access;
+- immediate incident reporting for loss, theft, suspicious activity, or access compromise; and
+- cooperation with security reviews, audits, and incident response actions.
+
+Security violations may result in immediate access suspension and disciplinary action.
+
+---
+
+## 40. Forms and Acknowledgments
+
+The company maintains forms and acknowledgments to document policy compliance, access control, disciplinary processes, and reporting.
+
+Required forms and records include:
+
+- confidentiality and non-disclosure acknowledgment;
+- device and systems use acknowledgment;
+- disciplinary action forms;
+- complaint and investigation forms;
+- vendor and contractor compliance acknowledgments;
+- access request and revocation forms; and
+- security and incident reporting forms.
 
 ---
 
 ## Annexes
 
-- **Annex 1** — Employee/Contractor Code of Conduct Acknowledgment Form
-- **Annex 2** — Grievance and Complaint Reporting Form
-- **Annex 3** — Safeguarding Incident Reporting Form
-- **Annex 4** — Occupational Health & Safety Field Checklist
-- **Annex 5** — Sample Employment Contract (Gambian Law Compliant)
-- **Annex 6** — Independent Contractor Agreement Template
-- **Annex 7** — Volunteer Engagement Terms Template
-- **Annex 8** — Parental Consent Form — Minor Programme Participation
-- **Annex 9** — Parental Consent Form — Online Programme Participation
-- **Annex 10** — Conflict of Interest Disclosure Form
-- **Annex 11** — Whistleblower / Ethics Report Form
-- **Annex 12** — Investigation Intake Form
-- **Annex 13** — Expense Reimbursement Request Form
-- **Annex 14** — SPARXSTAR Access Request & Revocation Form
-- **Annex 15** — Training Completion Record Template
+- **Annex 1** — Core Values and Conduct Acknowledgment Form
+- **Annex 2** — Confidentiality and Non-Disclosure Acknowledgment Form
+- **Annex 3** — Device, Systems, and Messaging Use Acknowledgment Form
+- **Annex 4** — Discipline and Corrective Action Record Form
+- **Annex 5** — Complaint and Incident Reporting Form
+- **Annex 6** — Harassment and Misconduct Investigation Intake Form
+- **Annex 7** — Vendor and Contractor Standards Acknowledgment Form
+- **Annex 8** — Conflict of Interest Disclosure Form
+- **Annex 9** — Expense Reimbursement and Travel Approval Form
+- **Annex 10** — Security Incident Report Form
+- **Annex 11** — Access Request and Revocation Form
+- **Annex 12** — Termination and Exit Clearance Form
+- **Annex 13** — Operational Improvement Suggestion Form
 
 ---
 
