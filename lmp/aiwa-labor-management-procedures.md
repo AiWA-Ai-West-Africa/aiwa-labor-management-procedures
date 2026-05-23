@@ -247,7 +247,7 @@ Confirmed retaliation triggers corrective action independent of the underlying c
 
 ## 13. Health, Safety, and Operational Security
 
-AIWA and Technical Service Providers and other contracted or affiliated operational entities maintain practical health, safety, and operational security controls proportionate to role and context.
+AIWA, Technical Service Providers, and other contracted or affiliated operational entities maintain practical health, safety, and operational security controls proportionate to role and context.
 
 Expected controls include:
 - safe work environment and emergency readiness;
