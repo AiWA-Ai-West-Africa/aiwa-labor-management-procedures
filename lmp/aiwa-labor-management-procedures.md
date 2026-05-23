@@ -1201,7 +1201,7 @@ Recording or photographing children requires organizational authorization and, w
 
 ### 30.9 Supervision & Access Control
 
-AIWA shall supervise personnel appropriately, restrict unauthorized access to children, maintain visitor controls where applicable, and ensure contractors and visitors are identifiable. One-on-one unsupervised interaction with minors must be minimized where feasible.
+AIWA shall supervise personnel appropriately, restrict unauthorized access to children, maintain visitor controls where applicable, and ensure contractors and visitors are identifiable. One-on-one unsupervised interaction with minors is not permitted.
 
 ### 30.10 Mandatory Reporting Obligations
 
